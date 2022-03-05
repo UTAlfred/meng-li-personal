@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Meng Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Staff Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Meta On-Device AI Research
+  url: https://www.meta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a staff research scientist and tech lead in the Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of <a href="http://users.ece.utexas.edu/~dpan/">Prof. David Z. Pan</a> and my bachelor degree in Peking University under the supervision of <a href="http://www.ime.pku.edu.cn/newsshow.php?id=65&cid=69">Prof. Ru Huang</a> and <a href="http://www.ime.pku.edu.cn/~wangrunsheng/">Prof. Runsheng Wang</a>.
+
+My research interests include efficient and secure AI algorithms and systems.
 
 # Interests to show in About widget
 interests:
