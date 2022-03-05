@@ -25,14 +25,14 @@ interests:
 education:
   courses:
   - course: PhD in Computer Engineering
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University of Texas at Austin
+    year: 2018
+  - course: MS in Computer Engineering
+    institution: University of Texas at Austin
+    year: 2015
+  - course: BS in Microelectronics
+    institution: Peking University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,19 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: meng_li@utexas.edu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/UTAlfred
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/meng-li-50b8597a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,8 +66,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a staff research scientist and tech lead in the Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of Prof. David Z. Pan and my bachelor degree in Peking University under the supervision of Prof. Ru Huang and Prof. Runsheng Wang.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include efficient and secure AI algorithms and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
