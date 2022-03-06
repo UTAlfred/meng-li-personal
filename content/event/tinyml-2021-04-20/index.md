@@ -13,8 +13,8 @@ event_url: https://www.youtube.com/watch?v=xe9Ecx_iVT4
 #   postcode: '94305'
 #   country: United States
 
-summary: 'Discuss our recent progress on improving the weight-sharing NAS by designing better search space and better supernet training algorithms'
-abstract: 'Weight-sharing neural architecture search (NAS) is an effective technique for automating efficient neural architecture design. Weight-sharing NAS builds a supernet that assembles all the architectures as its sub-networks and jointly trains the supernet with the sub-networks. The success of weight-sharing NAS heavily relies on 1) the search space design and 2) the supernet training strategies. In this talk, we cover the following works that achieve state-of-the-art results on various computer vision tasks:'
+summary: Discuss our recent progress on improving the weight-sharing NAS by designing better search space and better supernet training algorithms
+abstract: Weight-sharing neural architecture search (NAS) is an effective technique for automating efficient neural architecture design. Weight-sharing NAS builds a supernet that assembles all the architectures as its sub-networks and jointly trains the supernet with the sub-networks. The success of weight-sharing NAS heavily relies on 1) the search space design and 2) the supernet training strategies. In this talk, we cover the following works that achieve state-of-the-art results on various computer vision tasks
 - name: 'AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling'
   link: https://arxiv.org/pdf/2011.09011.pdf
 - name: 'AlphaNet: Improved Training of Supernets with Alpha-Divergence'
