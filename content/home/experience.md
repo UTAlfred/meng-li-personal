@@ -25,7 +25,7 @@ experience:
   - title: Staff Research Scientist
     company: Meta
     company_url: 'www.meta.com'
-    company_logo: org-gc
+    # company_logo: org-meta
     location: California
     date_start: '2018-09-11'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Intern
     company: arm
     company_url: 'www.arm.com'
-    company_logo: org-x
+    # company_logo: org-arm
     location: California
     date_start: '2017-05-01'
     date_end: '2017-08-01'
@@ -48,7 +48,7 @@ experience:
   - title: Research Intern
     company: arm
     company_url: 'www.arm.com'
-    company_logo: org-x
+    # company_logo: org-x
     location: California
     date_start: '2016-05-01'
     date_end: '2016-08-01'
