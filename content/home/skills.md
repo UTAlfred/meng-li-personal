@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Research Focus
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: brain-circuit
   icon_pack: fab
-  name: R
+  name: Efficient AI Algorithm
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Secure Hardware/System
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: AI/HW Co-Design
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
