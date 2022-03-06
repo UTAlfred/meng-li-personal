@@ -1,6 +1,6 @@
 ---
 title: Two Papers Accepted in CVPR 2022
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Two papers on "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation" and "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems" are accepted by CVPR'2022.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
