@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: computer-classic
+  icon: fa-computer-classic
   icon_pack: fas
   name: Efficient AI Algorithm
 - description: 
-  icon: hashtag-lock
+  icon: fa-hashtag-lock
   icon_pack: fas
   name: Secure Hardware/System
 - description: 
-  icon: brain-circuit
+  icon: fa-brain-circuit
   icon_pack: fas
   name: AI/HW Co-Design
 
