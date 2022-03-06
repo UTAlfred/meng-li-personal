@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Tech Lead, On-Device AI, Reality Lab
-	      * Efficient NN for AR Glasses
+        * Efficient NN for AR Glasses
         * Efficient NN/HW Co-Design/Co-Optimization
         
   - title: Research Intern
