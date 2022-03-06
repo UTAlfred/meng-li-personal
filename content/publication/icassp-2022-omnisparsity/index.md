@@ -1,28 +1,30 @@
 ---
-title: "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems"
+title: "Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xin Dong
-- Ziyun Li
+- Haichuan Yang
+- Yuan Shangguan
+- Dilin Wang
 - admin
-- Zhongnan Qu
-- Barbara De Salvo
-- Chiao Liu
-- Hsiang-Tsung Kung
+- Pierce Chuang
+- Xiaohui Zhang
+- Ganesh Venkatesh
+- Ozlem Kalinli
+- Vikas Chandra
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-03-05T00:00:00Z"
+date: "2022-05-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-05T00:00:00Z"
+publishDate: "2022-05-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,17 +33,17 @@ publishDate: "2022-03-05T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Computer Vision and Pattern Recognition*
-publication_short: In *Conference on Computer Vision and Pattern Recognition (CVPR) 2022*
+publication: In *International Conference on Acoustics, Speech and Signal Processing*
+publication_short: In *International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022*
 
-abstract: We design deep neural networks (DNNs) and corresponding networks' splittings to distribute DNNs' workload to camera sensors and a centralized aggregator on head mounted devices to meet system performance targets in inference accuracy and latency under the given hardware resource constraints. To achieve an optimal balance among computation, communication, and performance, a split-aware neural architecture search framework, SplitNets, is introduced to conduct model designing, splitting, and communication reduction simultaneously. We further extend the framework to multi-view systems for learning to fuse inputs from multiple camera sensors with optimal performance and systemic efficiency. We validate SplitNets for single-view system on ImageNet as well as multi-view system on 3D ModelNet40, and show that the SplitNets framework achieves state-of-the-art (SOTA) performance and system latency compared with existing approaches.
+abstract: From wearables to powerful smart devices, modern automatic speech recognition (ASR) models run on a variety of edge devices with different computational budgets. To navigate the Pareto front of model accuracy vs model size, researchers are trapped in a dilemma of optimizing model accuracy by training and fine-tuning models for each individual edge device while keeping the training GPU-hours tractable. In this paper, we propose Omni-sparsity DNN, where a single neural network can be pruned to generate optimized model for a large range of model sizes. We develop training strategies for Omni-sparsity DNN that allows it to find models along the Pareto front of word-error-rate (WER) vs model size while keeping the training GPU-hours to no more than that of training one singular model. We demonstrate the Omni-sparsity DNN with streaming E2E ASR models. Our results show great saving on training time and resources with similar or better accuracy on LibriSpeech compared to individually pruned sparse models: 2%-6.6% better WER on Test-other.
 
 # Summary. An optional shortened abstract.
 # summary: 
 
 tags: 
 - Efficient AI
-- Computer Vision
+- Speech
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2110.08352.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -86,10 +88,12 @@ url_video: ''
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 # {{% /callout %}}
- 
+# 
 # {{% callout note %}}
 # Create your slides in Markdown - click the *Slides* button to check out the example.
 # {{% /callout %}}
- 
+# 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
 
