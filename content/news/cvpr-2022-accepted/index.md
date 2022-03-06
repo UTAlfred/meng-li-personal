@@ -1,9 +1,9 @@
 ---
 title: Two Papers Accepted in CVPR 2022
-subtitle: 'Two papers on "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation" and "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems" are accepted by CVPR'2022. Cheers!'
+subtitle: 'Two papers on *Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation* and *SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems* are accepted by CVPR'2022. Cheers!'
 
 # Summary for listings and search engines
-summary: 'Two papers on "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation" and "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems" are accepted by CVPR'2022.'
+summary: 'Two papers on *Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation* and *SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems* are accepted by CVPR'2022.'
 
 # Date published
 date: "2022-03-05T00:00:00Z"
