@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Security
+    tag: Security
   - name: Other
     tag: Demo
 
