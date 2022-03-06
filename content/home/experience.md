@@ -27,7 +27,7 @@ experience:
     company_url: 'www.meta.com'
     company_logo: org-gc
     location: California
-    date_start: '2018-09'
+    date_start: '2018-09-11'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: 'www.arm.com'
     company_logo: org-x
     location: California
-    date_start: '2017-05'
-    date_end: '2017-08'
+    date_start: '2017-05-01'
+    date_end: '2017-08-01'
     description: Privacy-preserving neural network training, including federated learning with non-IID data and PrivyNet with split network architectures
 
   - title: Research Intern
@@ -50,8 +50,8 @@ experience:
     company_url: 'www.arm.com'
     company_logo: org-x
     location: California
-    date_start: '2016-05'
-    date_end: '2016-08'
+    date_start: '2016-05-01'
+    date_end: '2016-08-01'
     description: Cross-level monte carlo framework for system vulnerability evaluation against fault attack
 
   - title: Research & Design Intern 
@@ -59,8 +59,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2014-05'
-    date_end: '2014-08'
+    date_start: '2014-05-01'
+    date_end: '2014-08-01'
     description: Static timing analysis acceleration
 
 design:
