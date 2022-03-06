@@ -57,7 +57,7 @@ experience:
   - title: Research & Design Intern 
     company: Cadence Design System
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: California
     date_start: '2014-05-01'
     date_end: '2014-08-01'
