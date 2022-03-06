@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-05"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: University of Texas at Austin
+  organization_url: 
+  title: Margarida Jacome Outstanding Dissertation Prize
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2019-05"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: European Design and Automation Association (EDAA)
+  organization_url: 
+  title: Outstanding Dissertations Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-03"
+  description: ""
+  organization: University of Texas at Austin
+  organization_url: 
+  title: Nominee of ACM Doctoral Dissertation Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-06"
+  description: ""
+  organization: Aossication of Computing Machinery (ACM)
+  organization_url: 
+  title: First Place, Student Research Competition Grand Final (Graduate Category)
   url: ""
 
 design:

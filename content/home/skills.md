@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: brain-circuit
   icon_pack: fab
   name: Efficient AI Algorithm
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Secure Hardware/System
-- description: 10%
+- description: 
   icon: camera-retro
   icon_pack: fas
   name: AI/HW Co-Design

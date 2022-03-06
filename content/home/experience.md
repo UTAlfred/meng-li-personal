@@ -22,28 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Staff Research Scientist
+    company: Meta
+    company_url: 'www.meta.com'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2018-09'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Tech Lead, On-Device AI, Reality Lab
+	      * Efficient NN for AR Glasses
+        * Efficient NN/HW Co-Design/Co-Optimization
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: arm
+    company_url: 'www.arm.com'
+    company_logo: org-x
+    location: California
+    date_start: '2017-05'
+    date_end: '2017-08'
+    description: Privacy-preserving neural network training, including federated learning with non-IID data and PrivyNet with split network architectures
+
+  - title: Research Intern
+    company: arm
+    company_url: 'www.arm.com'
+    company_logo: org-x
+    location: California
+    date_start: '2016-05'
+    date_end: '2016-08'
+    description: Cross-level monte carlo framework for system vulnerability evaluation against fault attack
+
+  - title: Research & Design Intern 
+    company: Cadence Design System
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2014-05'
+    date_end: '2014-08'
+    description: Static timing analysis acceleration
 
 design:
   columns: '2'
