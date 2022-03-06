@@ -1,17 +1,19 @@
 ---
-title: "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems"
+title: "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xin Dong
-- Ziyun Li
+- Jiaqi Gu
+- Hyoukjun Kwon
+- Dilin Wang
+- Wei Ye
 - admin
-- Zhongnan Qu
-- Barbara De Salvo
-- Chiao Liu
-- Hsiang-Tsung Kung
+- Yu-Hsin Chen
+- Liangzhen Lai
+- Vikas Chandra
+- David Pan
 
 # Author notes (optional)
 # author_notes:
@@ -34,7 +36,7 @@ publication_types: ["3"]
 publication: In *Conference on Computer Vision and Pattern Recognition*
 publication_short: In *Conference on Computer Vision and Pattern Recognition (CVPR) 2022*
 
-abstract: We design deep neural networks (DNNs) and corresponding networks' splittings to distribute DNNs' workload to camera sensors and a centralized aggregator on head mounted devices to meet system performance targets in inference accuracy and latency under the given hardware resource constraints. To achieve an optimal balance among computation, communication, and performance, a split-aware neural architecture search framework, SplitNets, is introduced to conduct model designing, splitting, and communication reduction simultaneously. We further extend the framework to multi-view systems for learning to fuse inputs from multiple camera sensors with optimal performance and systemic efficiency. We validate SplitNets for single-view system on ImageNet as well as multi-view system on 3D ModelNet40, and show that the SplitNets framework achieves state-of-the-art (SOTA) performance and system latency compared with existing approaches.
+abstract: Vision Transformers (ViTs) have emerged with superior performance on computer vision tasks compared to convolutional neural network (CNN)-based models. However, ViTs are mainly designed for image classification that generate single-scale low-resolution representations, which makes dense prediction tasks such as semantic segmentation challenging for ViTs. Therefore, we propose HRViT, which enhances ViTs to learn semantically-rich and spatially-precise multi-scale representations by integrating high-resolution multi-branch architectures with ViTs. We balance the model performance and efficiency of HRViT by various branch-block co-optimization techniques. Specifically, we explore heterogeneous branch designs, reduce the redundancy in linear layers, and augment the attention block with enhanced expressiveness. Those approaches enabled HRViT to push the Pareto frontier of performance and efficiency on semantic segmentation to a new level, as our evaluation results on ADE20K and Cityscapes show. HRViT achieves 50.20% mIoU on ADE20K and 83.16% mIoU on Cityscapes, surpassing state-of-the-art MiT and CSWin backbones with an average of +1.78 mIoU improvement, 28% parameter saving, and 21% FLOPs reduction, demonstrating the potential of HRViT as a strong vision backbone for semantic segmentation.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -92,4 +94,5 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
 
