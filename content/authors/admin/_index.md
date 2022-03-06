@@ -70,4 +70,4 @@ I am currently a staff research scientist and tech lead in the Meta On-Device AI
 
 My research interests include efficient and secure AI algorithms and systems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
