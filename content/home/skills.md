@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: fa-hashtag-lock
   icon_pack: fas
-  name: Secure Hardware/System
+  name: Secure AI Accelerator/System
 - description: 
   icon: fa-brain-circuit
   icon_pack: fas
