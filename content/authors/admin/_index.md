@@ -14,7 +14,7 @@ organizations:
   url: https://www.meta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a staff research scientist and tech lead in the Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of Prof. David Z. Pan and my bachelor degree in Peking University under the supervision of Prof. Ru Huang and Prof. Runsheng Wang. My research interests include efficient and secure AI algorithms and systems.
+bio: I am currently a staff research scientist and tech lead in the Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of [Prof. Ru Huang](https://eecs.pku.edu.cn/info/1498/6685.htm) and [Prof. Runsheng Wang](https://eecs.pku.edu.cn/info/1498/6670.htm). My research interests include efficient and secure AI algorithms and systems.
 
 # Interests to show in About widget
 interests:
