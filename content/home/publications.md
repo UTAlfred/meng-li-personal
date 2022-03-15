@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Recent Publications
-subtitle: 'More detailed publication lists available here: https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en'
+subtitle: 'More detailed publication lists available through [Google](https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en)'
 
 content:
   # Filter on criteria
