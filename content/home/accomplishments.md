@@ -55,6 +55,62 @@ item:
   organization_url: 
   title: First Place, Student Research Competition Grand Final (Graduate Category)
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-03-01"
+  description: ""
+  organization: ACM Great Lake Symposium on VLSI (GLSVLSI)
+  organization_url: 
+  title: Best Paper Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-02-01"
+  description: ""
+  organization: ASPDAC Student Research Forum, Aossication of Computing Machinery (ACM) SIGDA
+  organization_url: 
+  title: Best Poster (Presentation) Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-11-01"
+  description: ""
+  organization: ICCAD Student Research Competition, Aossication of Computing Machinery (ACM) SIGDA
+  organization_url: 
+  title: Gold Medal
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-07-01"
+  description: ""
+  organization: IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+  organization_url: 
+  title: Best Paper Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2013-09-01"
+  description: ""
+  organization: University of Texas at Austin
+  organization_url: 
+  title: Cockrell School Graduate Student Fellowship
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2011-09-01"
+  description: ""
+  organization: Peking University
+  organization_url: 
+  title: Yang Fuqing and Wang Yangyuan Academician Scholarship
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2010-09-01"
+  description: ""
+  organization: Peking University
+  organization_url: 
+  title: Li Yanhong Baidu Scholarship
+  url: ""
 
 design:
   columns: '2' 
