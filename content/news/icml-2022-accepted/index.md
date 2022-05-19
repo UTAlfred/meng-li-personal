@@ -1,5 +1,5 @@
 ---
-title: One Paper Accepted in CVPR 2022
+title: One Paper Accepted in ICML 2022
 subtitle: One paper on "DepthShrinker{:} A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks" is accepted by ICML'2022.
 
 # Summary for listings and search engines
