@@ -17,9 +17,7 @@ organizations:
   url: https://www.ai.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices.
-
-I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of [Prof. Ru Huang](https://eecs.pku.edu.cn/info/1498/6685.htm) and [Prof. Runsheng Wang](https://eecs.pku.edu.cn/info/1498/6670.htm). My research interests include efficient and secure AI algorithms and systems.
+bio: I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of [Prof. Ru Huang](https://eecs.pku.edu.cn/info/1498/6685.htm) and [Prof. Runsheng Wang](https://eecs.pku.edu.cn/info/1498/6670.htm). # My research interests include efficient and secure AI algorithms and systems.
 
 # Interests to show in About widget
 interests:
