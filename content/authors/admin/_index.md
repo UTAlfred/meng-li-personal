@@ -13,7 +13,7 @@ role: Assistant Professor
 organizations:
 # - name: Meta On-Device AI Research
 #   url: https://www.meta.com/
-- name: Institute for Artificial Intelligence
+- name: Institute for Artificial Intelligence, Peking University
   url: https://www.ai.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
