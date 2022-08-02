@@ -28,8 +28,8 @@ content:
   email: meng.li@pku.edu.cn
   # phone: 888 888 88 88
   address:
-    street: No.5, Yiheyuan Road, Haidian District
-    city: Beijing
+    street: No.5, Yiheyuan Road
+    city: Haidian District
     region: Beijing
     postcode: '100871'
     country: China
