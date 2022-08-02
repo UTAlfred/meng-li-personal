@@ -22,17 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Tenure-Track Assistant Professor
+    company: Peking University
+    company_url: 'www.pku.edu.cn'
+    # company_logo: org-meta
+    location: Beijing
+    date_start: '2022-07-27'
+    date_end: ''
+    description: Co-affiliated with Institute of Artificial Intelligence and School of Integrated Circuits
+        
   - title: Staff Research Scientist
     company: Meta
     company_url: 'www.meta.com'
     # company_logo: org-meta
     location: California
     date_start: '2018-09-11'
-    date_end: ''
+    date_end: '2022-07-15'
     description: |2-
         Responsibilities include:
         
-        * Tech Lead, On-Device AI, Reality Lab
+        * Tech Lead, On-Device AI, Meta Reality Lab
         * Efficient NN for AR Glasses
         * Efficient NN/HW Co-Design/Co-Optimization
         
