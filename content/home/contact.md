@@ -25,15 +25,14 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: meng_li@utexas.edu
+  email: meng.li@pku.edu.cn
   # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
+  address:
+    street: No.5, Yiheyuan Road, Haidian District
+    city: Beijing
+    region: Beijing
+    postcode: '100871'
+    country: China
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
