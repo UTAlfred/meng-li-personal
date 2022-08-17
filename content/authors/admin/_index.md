@@ -13,15 +13,15 @@ role: Assistant Professor
 organizations:
 # - name: Meta On-Device AI Research
 #   url: https://www.meta.com/
-- name: Co-affliated with Institute for Artificial Intelligence and School of Integrated Circuits, Peking University
+- name: Institute for Artificial Intelligence, Peking University
   url: https://www.ai.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. 
+bio: I am currently a tenure-track assistant professor with the Institute for Artificial Intelligence in Peking University. My research interests focus on efficient multi-modality AI acceleration algorithms and hardwares. 
 
 # Interests to show in About widget
 interests:
-- Efficient and Secure Artificial Intelligence
+- Efficient Multi-Modality Artificial Intelligence
 - Algorithm/Hardware Co-Design/Co-Optimization
 
 # Education to show in About widget
@@ -68,9 +68,9 @@ email: "meng.li@pku.edu.cn"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of [Prof. Ru Huang](https://eecs.pku.edu.cn/info/1498/6685.htm) and [Prof. Runsheng Wang](https://eecs.pku.edu.cn/info/1498/6670.htm).
+I am currently a tenure-track assistant professor affiliated with Institute for Artificial Intelligence in Peking University. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of [Prof. Ru Huang](https://eecs.pku.edu.cn/info/1498/6685.htm) and [Prof. Runsheng Wang](https://eecs.pku.edu.cn/info/1498/6670.htm).
 
-My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. 
+My research interests focus on efficient multi-modality AI acceleration algorithms and hardwares. 
 
 _I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration system. Please contact me via [email](meng.li@pku.edu.cn) with the subject line "Perspective Student from [Your Institute]" and your CV._
 

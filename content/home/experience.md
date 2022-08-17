@@ -29,7 +29,7 @@ experience:
     location: Beijing
     date_start: '2022-07-27'
     date_end: ''
-    description: Co-affiliated with Institute of Artificial Intelligence and School of Integrated Circuits
+    description: Institute of Artificial Intelligence
         
   - title: Staff Research Scientist
     company: Meta
