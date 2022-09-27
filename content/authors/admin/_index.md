@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "meng.li@pku.edu.cn"
+email: meng[dot]li[at]pku[dot]edu[dot]cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -76,6 +76,6 @@ I am currently a tenure-track assistant professor jointly affiliated with Instit
 
 My research interests focus on efficient multi-modality AI acceleration algorithms and hardwares. 
 
-_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration system. Please contact me via [email](meng.li@pku.edu.cn) with the subject line "Perspective Student from [Your Institute]" and your CV._
+_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration system. Please contact me via email with the subject line "Perspective Student from [Your Institute]" and your CV._
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

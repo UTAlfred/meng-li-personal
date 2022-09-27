@@ -30,7 +30,7 @@ publishDate: "2022-03-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Conference on Computer Vision and Pattern Recognition*
@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2111.01236.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
