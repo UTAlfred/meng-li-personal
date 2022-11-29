@@ -34,8 +34,8 @@ publishDate: "2022-11-27T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Neural Information Processing Systems*
-publication_short: In *Conference on Neural Information Processing Systems (NeurIPs) 2022*
+publication: In *Design, Automation and Test in Europe Conference and Exhibition (DATE)*
+publication_short: In *Design, Automation and Test in Europe Conference and Exhibition (DATE) 2022*
 
 abstract: 
 
@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2205.13016.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
