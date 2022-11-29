@@ -21,7 +21,7 @@ organizations:
   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a tenure-track assistant professor jointly affiliated with the Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. My research interests focus on efficient multi-modality AI acceleration algorithms and hardwares. 
+bio: I am currently a tenure-track assistant professor jointly affiliated with the Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. 
 
 # Interests to show in About widget
 interests:
@@ -74,8 +74,8 @@ highlight_name: true
 ---
 I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of Prof. Ru Huang and Prof. Runsheng Wang.
 
-My research interests focus on efficient multi-modality AI acceleration algorithms and hardwares. 
+My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. 
 
-_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration system. Please contact me via email with the subject line "Perspective Student from [Your Institute]" and your CV._
+_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration algorithm and system for efficiency and privacy. Please contact me via email with the subject line "Perspective Student from [Your Institute]" and your CV._
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
