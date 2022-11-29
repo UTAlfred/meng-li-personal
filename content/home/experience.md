@@ -39,6 +39,10 @@ experience:
     date_start: '2018-09-11'
     date_end: '2022-07-15'
     description: |2-
+	* 2018.09 - 2020.01 Research Scientist
+	* 2020.01 - 2021.06 Senior Research Scientist
+	* 2021.06 - 2022.07 Staff Research Scientist
+
         Responsibilities include:
         
         * Tech Lead, On-Device AI, Meta Reality Lab
