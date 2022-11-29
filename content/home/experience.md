@@ -40,6 +40,7 @@ experience:
     date_end: '2022-07-15'
     description: |2-
 	Experience:
+
 	* 2018.09 - 2020.01 Research Scientist
 	* 2020.01 - 2021.06 Senior Research Scientist
 	* 2021.06 - 2022.07 Staff Research Scientist
