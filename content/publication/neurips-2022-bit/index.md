@@ -16,7 +16,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
--
 - "Equal contribution"
 - "Equal contribution"
 
