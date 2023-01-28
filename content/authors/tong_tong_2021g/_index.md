@@ -13,7 +13,7 @@ weight: 2021
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Jinlong Lin, 2021)
+role: Master Student (Co-advised with Prof. Jinlong Lin, 2021)
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Yuan Wang, 2020)
+role: PhD Student (Co-advised with Prof. Yuan Wang, 2020)
 
 # Organizations/Affiliations
 organizations:

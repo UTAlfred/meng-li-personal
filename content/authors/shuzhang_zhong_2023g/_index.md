@@ -13,7 +13,7 @@ weight: 2023
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students
+role: PhD Student (2023)
 
 # Organizations/Affiliations
 organizations:

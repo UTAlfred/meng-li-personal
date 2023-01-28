@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Renjie Wei
+title: Tengyu Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Renjie Wei
+  - Tengyu Zhang
 
 weight: 2022
 
@@ -24,12 +24,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence
+  - Stochastic Computing, Approximate Computing
 
 education:
   courses:
-    - course: B.S. in Microelectronics
-      institution: Nanjing University
+    - course: B.E. in Peking University
       year: 2022
 
 # Social/Academic Networking
@@ -39,16 +38,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:2201111491@stu.pku.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: github
-    icon_pack: fab
-    link: 'https://github.com/Jasonrjw'
+    link: 'mailto:zhang_tengyu@pku.edu.cn'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: 
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: 
+#   - icon: github
+#     icon_pack: fab
+#     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '2201111491@stu.pku.edu.cn'
+email: 'zhang_tengyu@pku.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,3 +66,4 @@ user_groups:
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+

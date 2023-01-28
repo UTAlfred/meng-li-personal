@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Runsheng Wang, 2022)
+role: Master Student (Co-advised with Prof. Runsheng Wang, 2022)
 
 # Organizations/Affiliations
 organizations:
