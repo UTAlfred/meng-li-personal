@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Renjie Wei
+title: Yikang Jia
 
 # Username (this should match the folder name)
 authors:
-  - Renjie Wei
+  - Yikang Jia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students
+role: Graduate Students (Co-advised with Prof. Runsheng Wang)
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence
+  - Efficient Artificial Intelligence in Embedded System
 
 education:
   courses:
-    - course: B.S. in Microelectronics
-      institution: Nanjing University
+    - course: B.S. in Electronics Information Science and Technology
+      institution: Jilin University
       year: 2022
 
 # Social/Academic Networking
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 # Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

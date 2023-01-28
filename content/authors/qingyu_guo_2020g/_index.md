@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Renjie Wei
+title: Qingyu Guo
 
 # Username (this should match the folder name)
 authors:
-  - Renjie Wei
+  - Qingyu Guo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students
+role: Graduate Students (Co-advised with Prof. Yuan Wang)
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,13 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence
+  - FPGA-based accelerator design
 
 education:
   courses:
     - course: B.S. in Microelectronics
-      institution: Nanjing University
-      year: 2022
+      institution: Peking University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 # Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
