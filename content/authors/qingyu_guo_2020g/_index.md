@@ -6,6 +6,8 @@ title: Qingyu Guo
 authors:
   - Qingyu Guo
 
+weight: 2020
+
 # Is this the primary user of the site?
 superuser: false
 
