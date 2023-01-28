@@ -71,6 +71,9 @@ email: meng[dot]li[at]pku[dot]edu[dot]cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups:
+- Principal Investigators
 ---
 I am currently a tenure-track assistant professor jointly affiliated with Institute for Artificial Intelligence and School of Integrated Circuits in Peking University. Before joining Peking University, I was a staff research scientist and tech lead in Meta On-Device AI team with a focus on researching and productizing efficient AI algorithms and hardwares for next generation AR/VR devices. I received my Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin under the supervision of [Prof. David Z. Pan](http://users.ece.utexas.edu/~dpan/) and my bachelor degree in Peking University under the supervision of Prof. Ru Huang and Prof. Runsheng Wang.
 
