@@ -19,11 +19,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
   - name: Students 
     url: '#students'
+    weight: 60
+  - name: Contact
+    url: '#contact'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
