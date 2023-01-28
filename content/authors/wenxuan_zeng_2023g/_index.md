@@ -1,36 +1,34 @@
 ---
 # Display name
-title: Renjie Wei
+title: Wenxuan Zeng
 
 # Username (this should match the folder name)
 authors:
-  - Renjie Wei
-
-weight: 2022
+  - Wenxuan Zeng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
   - name: Peking University
-    url: ''
+    url: 'https://www.pku.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence
+  - My research interests include Efficient Deep Learning and Privacy-preserving Machine Learning.
 
 education:
   courses:
-    - course: B.S. in Microelectronics
-      institution: Nanjing University
-      year: 2022
+    - course: B.S. in Software Engineering
+      institution: University of Electronic Science and Technology of China (UESTC)
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,16 +37,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2201111491@stu.pku.edu.cn'
+    link: 'zwx.andy@outlook.com'
   - icon: twitter
     icon_pack: fab
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.com/citations?user=P1c6nDYAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: 'https://github.com/Jasonrjw'
+    link: https://github.com/zwxandy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '2201111491@stu.pku.edu.cn'
+email: 'zwx.andy@outlook.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,3 +65,4 @@ user_groups:
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
