@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - news
+      - students
     tag: ''
     category: ''
     publication_type: ''
