@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Runsheng Wang)
+role: Graduate Students (Co-advised with Prof. Runsheng Wang, 2022)
 
 # Organizations/Affiliations
 organizations:
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: ''
   - icon: twitter
     icon_pack: fab
     link: 

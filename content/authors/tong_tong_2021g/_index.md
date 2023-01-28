@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Qingyu Guo
+title: Tong Tong
 
 # Username (this should match the folder name)
 authors:
-  - Qingyu Guo
-
-weight: 2020
+  - Tong Tong
 
 # Is this the primary user of the site?
 superuser: false
 
+weight: 2021
+
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Yuan Wang, 2020)
+role: Graduate Students (Co-advised with Prof. Jinlong Lin, 2021)
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - FPGA-based accelerator design
+  - Privacy-preserving deep learning 
 
 education:
   courses:
-    - course: B.S. in Microelectronics
-      institution: Peking University
-      year: 2020
+    - course: B.S. in Electronic Information Engineering
+      institution: Harbin Institute of Technology
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,16 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
-  - icon: twitter
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: github
-    icon_pack: fab
-    link: 
+    link: 'mailto:tongtong@stu.pku.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tongtong@stu.pku.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,4 +57,5 @@ user_groups:
 ---
 
 # Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+

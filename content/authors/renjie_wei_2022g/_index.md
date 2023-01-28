@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students
+role: Graduate Students (2022)
 
 # Organizations/Affiliations
 organizations:
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2201111491@stu.pku.edu.cn'
+    link: 'mailto:2201111491@stu.pku.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: 

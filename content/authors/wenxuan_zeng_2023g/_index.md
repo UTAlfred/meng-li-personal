@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Student
+role: Graduate Student (2023)
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,14 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - My research interests include Efficient Deep Learning and Privacy-preserving Machine Learning.
+  - Efficient Deep Learning
+  - Privacy-preserving Machine Learning
 
 education:
   courses:
     - course: B.S. in Software Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
-      year: 2019-2023
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zwx.andy@outlook.com'
+    link: 'mailto:zwx.andy@outlook.com'
   - icon: twitter
     icon_pack: fab
     link: 
