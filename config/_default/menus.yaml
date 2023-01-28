@@ -10,20 +10,20 @@ main:
   - name: News
     url: '#news'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 30
   - name: Publications
     url: '#publications'
+    weight: 40
+  - name: Projects
+    url: '#projects'
     weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Misc
-    url: '#misc'
+  - name: Students 
+    url: '#students'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
