@@ -6,6 +6,8 @@ title: Yikang Jia
 authors:
   - Yikang Jia
 
+weight: 2022
+
 # Is this the primary user of the site?
 superuser: false
 
