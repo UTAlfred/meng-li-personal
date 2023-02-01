@@ -13,7 +13,7 @@ weight: 2023
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (Co-advised with Prof. Runsheng Wang, 2023)
+role: Master/PhD Student (Co-advised with Prof. Runsheng Wang, 2023)
 
 # Organizations/Affiliations
 organizations:
