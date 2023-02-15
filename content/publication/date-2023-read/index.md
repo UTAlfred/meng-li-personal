@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Design, Automation and Test in Europe Conference and Exhibition (DATE)*
-publication_short: In *Design, Automation and Test in Europe Conference and Exhibition (DATE) 2022* (extended abstract)
+publication_short: In *Design, Automation and Test in Europe Conference and Exhibition (DATE) 2023* (extended abstract)
 
 abstract: 
 
