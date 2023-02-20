@@ -82,6 +82,3 @@ My research interests focus on efficient and secure multi-modality AI accelerati
 _I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration algorithm and system for efficiency and privacy. Please contact me via email with the subject line "Perspective Student from [Your Institute]" and your CV._
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-# Keep this line untouched
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
