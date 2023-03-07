@@ -1,6 +1,6 @@
 ---
 title: One Paper Accepted by DAC 2023
-subtitle: One paper on "AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing" is accpeted by IEEE TCAD.
+subtitle: One paper on "AVATAR- An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing" is accpeted by IEEE TCAD.
 
 # Summary for listings and search engines
 summary: One paper on "AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing" is accepted by IEEE TCAD.

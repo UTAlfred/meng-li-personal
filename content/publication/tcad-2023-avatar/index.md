@@ -1,5 +1,5 @@
 ---
-title: "AVATAR{:} An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing"
+title: "AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
