@@ -33,8 +33,8 @@ publishDate: "2023-03-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference (DAC)*
-publication_short: In *Design Automation Conference (DAC) 2023*
+publication: In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
+publication_short: In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (2023)*
 
 abstract: 
 
