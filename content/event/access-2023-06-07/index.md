@@ -13,8 +13,7 @@ event_url: https://accessts.hkust.edu.hk/program
 #   postcode: '94305'
 #   country: United States
 
-summary: Discuss the recent works from our lab on full stack optimization to
-enable accurate yet efficient AI acceleration for multi-modal applications.
+summary: Discuss the recent works from our lab on full stack optimization to enable accurate yet efficient AI acceleration for multi-modal applications.
 
 # we cover the following works that achieve state-of-the-art results on various computer vision tasks
 # - name: 'AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling'
