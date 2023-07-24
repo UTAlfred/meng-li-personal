@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Zuodong Zhang
+title: Jiangrui Yu
 
 # Username (this should match the folder name)
 authors:
-  - Zuodong Zhang
-
-weight: 2018
+  - Jiangrui Yu
 
 # Is this the primary user of the site?
 superuser: false
 
+weight: 2024
+
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Runsheng Wang)
+role: PhD Student (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-# My research interests include VLSI reliability-aware timing analysis and reliability-enhanced design optimization.
-interests:
-  - VLSI reliability-aware timing analysis
-  - Reliability-enhanced design optimization
 
 interests:
-  - VLSI reliability analysis and optimization
+  - Secure Artificial Intelligence
 
 education:
   courses:
-    - course: B.S. in Electronic Engineer
-      institution: Beihang University
-      year: 2018
+    - course: B.S. in Micro-electronics
+      institution: Peking University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,16 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zuodongzhang@pku.edu.cn'
-#   - icon: twitter
-#     icon_pack: 
-#     link: 
-#   - icon: google-scholar
-#     icon_pack: 
-#     link: 
-#   - icon: github
-#     icon_pack: 
-#     link: 
+    link: 'mailto:'
+  - icon: researchgate
+    icon_pack: fab
+    link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zuodongzhang@pku.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

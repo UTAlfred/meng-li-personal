@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Tong Tong
+title: Zebin Yang
 
 # Username (this should match the folder name)
 authors:
-  - Tong Tong
+  - Zebin Yang
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2021
+weight: 2024
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Master Student (Co-advised with Prof. Jinlong Lin, 2021)
+role: PhD Student (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -24,16 +24,13 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Privacy-preserving deep learning 
+  - Efficient Artificial Intelligence
 
 education:
   courses:
-    - course: Master in School of Software and Microelctronics
+    - course: B.S. in Micro-electronics
       institution: Peking University
-      year: 2023
-    - course: B.S. in Electronic Information Engineering
-      institution: Harbin Institute of Technology
-      year: 2019
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tongtong@stu.pku.edu.cn'
+    link: 'mailto:'
+  - icon: researchgate
+    icon_pack: fab
+    link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,13 +50,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tongtong@stu.pku.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# One of [Grad Students, Undergrad Students, Alumni]
+# One of [Grad Students, Undergrad Students]
 user_groups:
-  - Alumni
+  - Grad Students
 ---
 
 # Keep this line untouched

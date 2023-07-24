@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Tong Tong
+title: Zuodong Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Tong Tong
+  - Zuodong Zhang
+
+weight: 2018
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2021
-
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Master Student (Co-advised with Prof. Jinlong Lin, 2021)
+role: Graduate Students (Co-advised with Prof. Runsheng Wang)
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +22,22 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# My research interests include VLSI reliability-aware timing analysis and reliability-enhanced design optimization.
+interests:
+  - VLSI reliability-aware timing analysis
+  - Reliability-enhanced design optimization
 
 interests:
-  - Privacy-preserving deep learning 
+  - VLSI reliability analysis and optimization
 
 education:
   courses:
-    - course: Master in School of Software and Microelctronics
+    - course: Ph.D. in Microelectronics
       institution: Peking University
       year: 2023
-    - course: B.S. in Electronic Information Engineering
-      institution: Harbin Institute of Technology
-      year: 2019
+    - course: B.S. in Electronic Engineer
+      institution: Beihang University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tongtong@stu.pku.edu.cn'
+    link: 'mailto:zuodongzhang@pku.edu.cn'
+#   - icon: twitter
+#     icon_pack: 
+#     link: 
+#   - icon: google-scholar
+#     icon_pack: 
+#     link: 
+#   - icon: github
+#     icon_pack: 
+#     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,11 +63,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tongtong@stu.pku.edu.cn'
+email: 'zuodongzhang@pku.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# One of [Grad Students, Undergrad Students, Alumni]
+# One of [Grad Students, Undergrad Students]
 user_groups:
   - Alumni
 ---
