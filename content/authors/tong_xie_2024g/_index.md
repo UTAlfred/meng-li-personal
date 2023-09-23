@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Tengyu Zhang
+title: Tong Xie
 
 # Username (this should match the folder name)
 authors:
-  - Tengyu Zhang
+  - Tong Xie
 
-weight: 2022
+weight: 2024
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (co-advised with Prof. Runsheng Wang, 2022)
+role: PhD Student (co-advised with Prof. Runsheng Wang, 2024)
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: B.E. in Peking University
-      year: 2022
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhang_tengyu@pku.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
