@@ -62,7 +62,7 @@ email: '2201111491@stu.pku.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - Grad Students
+  - PhD Students
 ---
 
 # Keep this line untouched
