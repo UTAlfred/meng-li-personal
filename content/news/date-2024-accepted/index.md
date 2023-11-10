@@ -1,7 +1,6 @@
 ---
 title: One Paper Accepted in DATE 2024
-subtitle: One paper on "ASCEND{:} Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision
-Transformer" are accpeted by DATE'2024.
+subtitle: One paper on "ASCEND{:} Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer" are accpeted by DATE'2024.
 
 # Summary for listings and search engines
 summary: One paper on "ASCEND{:} Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision
