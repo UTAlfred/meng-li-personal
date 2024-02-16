@@ -1,6 +1,6 @@
 ---
 title: One Paper Accepted by DAC 2023
-subtitle: Two papers on "Efficient Non-Linear Adder for Stochastic Computing with Approximate Spatial-Temporal Sorting Network" is accpeted by DAC'2023.
+subtitle: One papers on "Efficient Non-Linear Adder for Stochastic Computing with Approximate Spatial-Temporal Sorting Network" is accpeted by DAC'2023.
 
 # Summary for listings and search engines
 summary: One paper on "Efficient Non-Linear Adder for Stochastic Computing with Approximate Spatial-Temporal Sorting Network" is accepted by DAC'2023 as a regular paper.
