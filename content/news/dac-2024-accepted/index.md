@@ -4,7 +4,7 @@ subtitle: Three papers on efficient and privacy-preserving deep learning are acc
 
 # Summary for listings and search engines
 summary: Three papers on efficient and privacy-preserving deep learning are
-accepted by DAC'2023 as regular papers:
+accepted by DAC'2023 as regular papers, including
 "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption",
 "FastQuery: Communication-efficient Embedding Table Query for Private LLMs inference",
 "MoteNN: Memory Optimization via Fine-grained Scheduling for Deep Neural Networks on Tiny Devices".
