@@ -24,6 +24,13 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+
+  filter_default: 0
+
+  filter_button:
+  - name: All
+    tag: '*'
+
   # Choose how many pages you would like to display (0 = all pages)
   count: 20
   # Choose how many pages you would like to offset by
