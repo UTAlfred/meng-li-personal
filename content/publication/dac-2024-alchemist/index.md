@@ -1,5 +1,5 @@
 ---
-title: "Alchemist&#58; A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption"
+title: "Alchemist: A Unified Accelerator Architecture for Cross-Scheme Fully Homomorphic Encryption"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
