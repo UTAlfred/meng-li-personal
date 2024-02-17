@@ -14,16 +14,16 @@ subtitle: 'More detailed publication lists available through [Google Scholar](ht
 
 content:
   # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: 'Hardware Acc'
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+  # filters:
+  #   folders:
+  #     - publication
+  #   tag: 'Hardware Acc'
+  #   category: ''
+  #   publication_type: ''
+  #   author: ''
+  #   exclude_featured: false
+  #   exclude_future: false
+  #   exclude_past: false
 
   filter_default: 0
 
