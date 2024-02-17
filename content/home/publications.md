@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: 'Hardware Acc'
+    tag: ''
     category: ''
     publication_type: ''
     author: ''
