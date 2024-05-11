@@ -79,6 +79,6 @@ I am currently a tenure-track assistant professor jointly affiliated with Instit
 
 My research interests focus on efficient and secure multi-modality AI acceleration algorithms and hardwares. 
 
-_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration algorithm and system for efficiency and privacy. Please contact me via email with the subject line "Perspective Student from [Your Institute]" and your CV. (I have finished the Ph.D. student recruiting for 2024. If you are interested in applying for 2025, contact me early.)_
+_I am always looking for creative and self-motivated students and post docs who are interested in co-designing the future AI acceleration algorithm and system for efficiency and privacy. Please contact me via email with the subject line "Prospective Student from [Your Institute]" and your CV. (I have finished the Ph.D. student recruiting for 2024. If you are interested in applying for 2025, contact me early.)_
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
