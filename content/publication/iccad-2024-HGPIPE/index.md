@@ -1,5 +1,5 @@
 ---
-title: "Vision Transformer Acceleration with Hybrid-Grained Pipeline"
+title: "HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
