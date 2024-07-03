@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: featurette
 
 # This file represents a page section.
 headless: true
@@ -29,9 +29,9 @@ feature:
   icon_pack: fas
   name: AI/HW Co-Design
 
-design:
-  view: compact
-  columns: 2
+# design:
+#   view: compact
+#   columns: 2
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
