@@ -29,6 +29,10 @@ feature:
   icon_pack: fas
   name: AI/HW Co-Design
 
+design:
+  view: compact
+  columns: 2
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
