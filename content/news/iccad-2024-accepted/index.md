@@ -25,3 +25,5 @@ tags:
 ---
 
 Papers on privacy-preserving AI:
+- PrivQuant: Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization
+- FlexHE: A flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference
