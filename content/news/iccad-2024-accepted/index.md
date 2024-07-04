@@ -27,3 +27,10 @@ tags:
 Papers on privacy-preserving AI:
 - PrivQuant: Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization
 - FlexHE: A flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference
+
+Papers on efficient AI:
+- OSCA: End-to-end Serial Stochastic Computing Neural Acceleration with Fine-grained Scaling and Piecewise Activation
+- HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline
+- ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding
+- AdapMoE: Adaptive Sensitivity-based Expert Gating and Management for Efficient MoE Inference
+- MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers
