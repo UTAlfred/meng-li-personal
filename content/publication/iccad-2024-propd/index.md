@@ -7,14 +7,17 @@ title: "ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decodi
 authors:
 - Shuzhang Zhong
 - Zebin Yang
-- admin
 - Ruihao Gong
 - Runsheng Wang
 - Ru Huang
+- admin
 
 
 # Author notes (optional)
 author_notes:
+-
+- 
+-
 -
 - 
 - "Corresponding Author"
