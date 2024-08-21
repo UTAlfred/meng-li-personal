@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Linye Wei
+title: Fahong Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Linye Wei
+  - Fahong Zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,13 +24,13 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Embodied AI
+  - Secure AI
 
 education:
   courses:
-    - course: B.S. in Electrical Engineering
-      institution: Southeast University
-      year: 2025
+    - course: M.E. in Electrical Engineering
+      institution: Xi'an Jiao Tong University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
