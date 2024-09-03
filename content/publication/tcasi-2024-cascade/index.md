@@ -1,5 +1,5 @@
 ---
-title: "CASCADE&#58; A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow"
+title: "CASCADE: A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
