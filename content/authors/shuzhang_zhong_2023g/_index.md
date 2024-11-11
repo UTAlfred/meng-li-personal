@@ -24,8 +24,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence
-  - Neural Architecture Search
+  - Efficient AI Algorithm & System
 
 education:
   courses:
