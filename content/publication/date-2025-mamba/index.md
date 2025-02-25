@@ -1,5 +1,5 @@
 ---
-title: "LightMamba: Efficient Mamba Acceleration onFPGA with Quantization and Hardware Co-design"
+title: "LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
