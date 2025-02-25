@@ -1,5 +1,5 @@
 ---
-title: "SCALES: Boost Binary Neural Network for ImageSuper-Resolution with Efficient Scalings"
+title: "SCALES: Boost Binary Neural Network for Image Super-Resolution with Efficient Scalings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
