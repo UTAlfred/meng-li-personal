@@ -37,8 +37,8 @@ publishDate: "2025-03-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Circuits and Systems I&#58; Regular Papers (TCAS-I)*
-publication_short: In *IEEE Transactions on Circuits and Systems I&#58; Regular Papers (TCAS-I) (2024)*
+publication: In *IEEE Transactions on Information Forensics and Security (TIFS)*
+publication_short: In *IEEE Transactions on Information Forensics and Security (TIFS) (2025)*
 
 abstract: 
 
@@ -46,8 +46,7 @@ abstract:
 # summary: 
 
 tags: 
-- Efficient AI
-- Hardware Acc
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true
