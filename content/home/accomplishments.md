@@ -25,6 +25,46 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2025-04-30"
+  description: ""
+  organization: IEEE Circuit & System Society
+  organization_url: 
+  title: AICAS Grand Challenge on LLM Hardware System Design 1st Place
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-08-31"
+  description: ""
+  organization: China Computer Federation (CCF)
+  organization_url: 
+  title: CCF-Ant Group Research Award on Hardware/Software Co-Design
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-07-04"
+  description: ""
+  organization: China Computer Federation (CCF)
+  organization_url: 
+  title: CCF Integrated Circuits Early Career Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-05-01"
+  description: ""
+  organization: Ant Group
+  organization_url: 
+  title: Secretflow Outstanding Industry-Academic Cooperation Contribution Award 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-08-31"
+  description: ""
+  organization: China Computer Federation (CCF)
+  organization_url: 
+  title: CCF-Ant Group Research Award on Privacy Computing
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2019-05-01"
   description: ""
   organization: University of Texas at Austin
