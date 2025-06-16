@@ -33,6 +33,14 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
+  date_start: "2024-12-15"
+  description: ""
+  organization: Peking University
+  organization_url: 
+  title: Young Teachers’ Teaching Skills Competition 1st Place Prize
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2024-08-31"
   description: ""
   organization: China Computer Federation (CCF)

@@ -49,12 +49,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "/#contact"
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/UTAlfred
+  link: https://github.com/PKU-SEC-Lab
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/meng-li-50b8597a/
