@@ -6,17 +6,35 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 李萌的个人主页
+  params:
+    description: 欢迎来到李萌的个人主页
+  menu:
+    main:
+      - name: 首页
+        url: '#about'
+        weight: 10
+      - name: 新闻
+        url: '#news'
+        weight: 20
+      - name: 最新讲座
+        url: '#talks'
+        weight: 30
+      - name: 论文发表
+        url: '#publications'
+        weight: 40
+      - name: 开源项目
+        url: '#projects'
+        weight: 50
+      - name: 学生
+        url: 'students'
+        weight: 60
+      - name: 联系方式
+        url: '#contact'
+        weight: 70
