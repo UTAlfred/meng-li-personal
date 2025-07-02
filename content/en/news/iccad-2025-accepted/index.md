@@ -9,10 +9,10 @@ subtitle: Four papers on efficient AI are accepted by ICCAD'2025 as regular pape
 summary: Four papers on efficient AI and one special session proposal on privacy-preserving AI are accepted by ICCAD'2025.
 
 # Date published
-date: "2025-06-27T00:00:00Z"
+date: "2025-07-02T00:00:00Z"
 
 # Date updated
-lastmod: "2025-06-27T00:00:00Z"
+lastmod: "2025-07-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
