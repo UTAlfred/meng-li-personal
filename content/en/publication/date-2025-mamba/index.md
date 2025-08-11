@@ -64,7 +64,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://disk.pku.edu.cn/link/AR2B587ABA9D4D4C4F987131DE69E2A270'
 url_source: ''
 url_video: ''
 
