@@ -59,7 +59,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2503.24053'
 url_code: ''
 url_dataset: ''
 url_poster: ''
