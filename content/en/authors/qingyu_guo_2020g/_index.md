@@ -13,15 +13,15 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (Co-advised with Prof. Yuan Wang, 2020)
+role: Senior Software Engineer@ByteDance
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: ByteDance Inc
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: First-author papers published in TCAS-I'24
 
 interests:
   - FPGA-based accelerator design
@@ -31,6 +31,9 @@ education:
     - course: B.S. in Microelectronics
       institution: Peking University
       year: 2020
+    - course: Ph.D. in Microelectronics (Co-advised with Prof. Yuan Wang)
+      institution: Peking University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +65,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 # Keep this line untouched
