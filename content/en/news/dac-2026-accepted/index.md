@@ -22,10 +22,10 @@ tags:
 ---
 
 Efficient AI Accelerators:
-- EdgeSC: Universal Stochastic Computing Architecture for Efficient Edge Detection
+- EdgeSC: Universal Stochastic Computing Architecture for Efficient Edge Detection (collaboration w/ Prof. Ngai Wong from HKU)
 - DRIFT: Harnessing Inherent Fault Tolerance for Efficient and Reliable Diffusion Model Inference
 - NASiC: 3D NAND-based CAM-Selected Multibit CIM Architecture for Efficient On-Device Mixture-of-Experts LLM Inference
-- S2CIM: A Secure-Computation and Secure-Storage Compute-in-Memory Architecture with Circuit-Algorithm Co-Design for Efficient and Trustworthy Edge Inference
+- S2CIM: A Secure-Computation and Secure-Storage Compute-in-Memory Architecture with Circuit-Algorithm Co-Design for Efficient and Trustworthy Edge Inference (led by Prof. Kechao Tang from PKU)
 
 Efficient AI Algorithms:
 - KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning
