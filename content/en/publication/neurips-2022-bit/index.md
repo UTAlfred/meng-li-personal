@@ -41,7 +41,6 @@ abstract:
 # summary: 
 
 tags: 
-- NLP
 - Efficient AI
 
 # Display this page in the Featured widget?

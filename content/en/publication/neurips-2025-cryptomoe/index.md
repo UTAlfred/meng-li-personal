@@ -41,7 +41,7 @@ abstract:
 # summary: 
 
 tags: 
-- Privacy-Preserving ML
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

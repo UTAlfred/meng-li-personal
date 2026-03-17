@@ -6,7 +6,7 @@ title: Yikang Jia
 authors:
   - Yikang Jia
 
-weight: 2022
+weight: 2025
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,17 +17,20 @@ role: Master Student (Co-advised with Prof. Runsheng Wang, 2022)
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: China Construction Bank
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Artificial Intelligence in Embedded System
+  - Efficient AI
 
 education:
   courses:
+    - course: Master in School of Software and Microelctronics
+      institution: Peking University
+      year: 2025
     - course: B.S. in Electronics Information Science and Technology
       institution: Jilin University
       year: 2022
@@ -62,7 +65,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - Master Students
+  - Alumni
 ---
 
 # Keep this line untouched

@@ -24,7 +24,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Privacy-Preserving AI Algorithm & Accelerator
+  - Privacy-Preserving AI
 
 education:
   courses:

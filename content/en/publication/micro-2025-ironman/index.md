@@ -50,7 +50,7 @@ abstract:
 # summary: 
 
 tags: 
-- Privacy-Preserving AI
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

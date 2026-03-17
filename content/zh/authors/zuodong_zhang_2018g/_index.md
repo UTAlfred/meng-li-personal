@@ -24,10 +24,6 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 # My research interests include VLSI reliability-aware timing analysis and reliability-enhanced design optimization.
 interests:
-  - VLSI reliability-aware timing analysis
-  - Reliability-enhanced design optimization
-
-interests:
   - VLSI reliability analysis and optimization
 
 education:

@@ -17,18 +17,15 @@ role: Graduate Students (Co-advised with Prof. Runsheng Wang)
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: Institute of EDA, Peking University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 1st author papers x 8, 国家奖学金等
+
 # My research interests include VLSI reliability-aware timing analysis and reliability-enhanced design optimization.
 interests:
-  - VLSI reliability-aware timing analysis
-  - Reliability-enhanced design optimization
-
-interests:
-  - VLSI reliability analysis and optimization
+  - EDA
 
 education:
   courses:

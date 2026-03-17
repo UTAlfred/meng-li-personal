@@ -29,7 +29,7 @@ experience:
     location: Beijing
     date_start: '2022-07-27'
     date_end: ''
-    description: Institute of Artificial Intelligence
+    description: Institute for Artificial Intelligence & School of Integrated Circuits
         
   - title: Staff Research Scientist
     company: Meta
@@ -58,7 +58,7 @@ experience:
     location: California
     date_start: '2017-05-01'
     date_end: '2017-08-01'
-    description: Privacy-preserving neural network training, including federated learning with non-IID data and PrivyNet with split network architectures
+    description: Private AI
 
   - title: Research Intern
     company: arm
@@ -67,7 +67,7 @@ experience:
     location: California
     date_start: '2016-05-01'
     date_end: '2016-08-01'
-    description: Cross-level monte carlo framework for system vulnerability evaluation against fault attack
+    description: Hardware Security
 
   - title: Research & Design Intern 
     company: Cadence Design System

@@ -42,8 +42,7 @@ abstract:
 # summary: 
 
 tags: 
-- Hardware Acc
-- Efficient AI
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

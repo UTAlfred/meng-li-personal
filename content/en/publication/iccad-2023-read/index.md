@@ -39,7 +39,7 @@ abstract:
 # summary: 
 
 tags: 
-- Private Inference
+- Efficient AI
 
 # Display this page in the Featured widget?
 featured: true

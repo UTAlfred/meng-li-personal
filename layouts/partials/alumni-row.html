@@ -1,0 +1,37 @@
+{{/* Renders one alumni <tr>. Expects dict with key "person". */}}
+{{ $person := .person }}
+
+{{/* ── Highest degree ── */}}
+{{ $degree := "" }}
+{{ range $person.Params.education.courses }}
+  {{ if findRE "(?i)(ph\\.?d|doctor)" .course }}
+    {{ $degree = printf "Ph.D. (%v)" .year }}
+  {{ end }}
+{{ end }}
+{{ if not $degree }}
+  {{ range $person.Params.education.courses }}
+    {{ if findRE "(?i)(master|m\\.s|m\\.eng)" .course }}
+      {{ if not $degree }}
+        {{ $degree = printf "M.S. (%v)" .year }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $degree }}
+  {{ with index $person.Params.education.courses 0 }}
+    {{ $degree = printf "%v (%v)" .course .year }}
+  {{ end }}
+{{ end }}
+
+{{/* ── Current position ── */}}
+{{ $position := "" }}
+{{ with index $person.Params.organizations 0 }}
+  {{ $position = .name }}
+{{ end }}
+
+<tr>
+  <td class="alumni-name">{{ $person.Title }}<br><span class="alumni-degree">{{ $degree }}</span></td>
+  <td class="alumni-interests">{{ delimit $person.Params.interests ", " | markdownify | emojify }}</td>
+  <td class="alumni-bio">{{ with $person.Params.bio }}{{ . | markdownify | emojify }}{{ end }}</td>
+  <td class="alumni-company">{{ $position }}</td>
+</tr>
