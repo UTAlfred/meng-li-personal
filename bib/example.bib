@@ -1,0 +1,53 @@
+% ============================================================
+%  bib/example.bib — sample BibTeX entries for bib2hugo.py
+%
+%  Usage:
+%    python scripts/bib2hugo.py bib/example.bib --dry-run
+%    python scripts/bib2hugo.py bib/papers.bib
+%
+%  Tips:
+%  • The BibTeX citekey becomes the publication folder name, e.g.
+%    @inproceedings{dac-2025-mypaper, …} → content/en/publication/dac-2025-mypaper/
+%  • Set  featured = {true}  to highlight a paper on the home page.
+%  • Use  eprint + archivePrefix = {arXiv}  for arXiv preprints.
+%  • "Meng Li" / "Li, Meng" is auto-replaced with the admin profile link.
+%  • Add abstract, doi, url, keywords as needed — all are optional.
+% ============================================================
+
+@inproceedings{cvpr-2025-example,
+  author    = {Jane Doe and Meng Li and John Smith},
+  title     = {A Fast and Accurate Vision Transformer for Edge Devices},
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  month     = {jun},
+  doi       = {10.1109/CVPR.2025.00001},
+  url       = {https://arxiv.org/pdf/2501.00001},
+  abstract  = {We propose a novel vision transformer architecture that achieves
+               state-of-the-art accuracy on ImageNet while running at 30 FPS on
+               a mobile GPU.  Our key insight is ...},
+  keywords  = {Efficient AI, Computer Vision},
+  featured  = {true},
+}
+
+@article{tcad-2025-example,
+  author   = {Alice Zhang and Meng Li},
+  title    = {Reliability-Aware Timing Analysis for Advanced {VLSI} Circuits},
+  journal  = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  year     = {2025},
+  volume   = {44},
+  number   = {3},
+  doi      = {10.1109/TCAD.2025.00002},
+  abstract = {We present a new timing analysis framework that accounts for
+               device aging and process variation simultaneously.},
+  keywords = {VLSI, Reliability},
+}
+
+@misc{arxiv-2025-example,
+  author        = {Bob Wang and Meng Li},
+  title         = {Efficient Private Inference via Structured Sparsity},
+  year          = {2025},
+  eprint        = {2501.12345},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CR},
+  keywords      = {Private AI, Efficient AI},
+}

@@ -1,0 +1,89 @@
+// ── Alumni compact table ─────────────────────────────────────────────────────
+
+.alumni-compact {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+
+  thead th {
+    padding: 0.45rem 0.75rem;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #6c757d;
+    white-space: nowrap;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.02);
+    }
+  }
+
+  td {
+    padding: 0.4rem 0.75rem;
+    vertical-align: middle;
+    line-height: 1.4;
+  }
+
+  .alumni-name {
+    font-weight: 600;
+    white-space: nowrap;
+
+    .alumni-degree {
+      display: block;
+      font-weight: 400;
+      font-size: 0.8rem;
+      color: #6c757d;
+    }
+  }
+
+  .alumni-interests {
+    color: #495057;
+  }
+
+  .alumni-bio {
+    color: #495057;
+    font-style: italic;
+  }
+
+  .alumni-company {
+    white-space: nowrap;
+    color: #6c757d;
+  }
+}
+
+// Dark mode adjustments
+.dark .alumni-compact {
+  thead th {
+    border-bottom-color: rgba(255, 255, 255, 0.15);
+    color: #adb5bd;
+  }
+
+  tbody tr {
+    border-bottom-color: rgba(255, 255, 255, 0.07);
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.04);
+    }
+  }
+
+  .alumni-name .alumni-degree,
+  .alumni-company {
+    color: #adb5bd;
+  }
+
+  .alumni-interests,
+  .alumni-bio {
+    color: #ced4da;
+  }
+}

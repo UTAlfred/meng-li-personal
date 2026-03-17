@@ -49,7 +49,7 @@ abstract:
 # summary: 
 
 tags: 
-- Efficient ML
+- Efficient AI
 
 # Display this page in the Featured widget?
 featured: true

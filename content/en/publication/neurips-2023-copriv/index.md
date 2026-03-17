@@ -39,7 +39,7 @@ abstract:
 # summary: 
 
 tags: 
-- Privacy-preserving ML
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

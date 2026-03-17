@@ -13,24 +13,28 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (Co-advised with Prof. Runsheng Wang, 2020)
+role: Software Engineer (Co-advised with Prof. Runsheng Wang, 2020)
 
 # Organizations/Affiliations
 organizations:
-  - name: School of Integrated Circuits, Peking University
+  - name: ZTE Corporation (Talent Program)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 1st author papers x 5, 北京大学优秀毕业生，北京市普通高等学校优秀毕业生等
 
 interests:
-  -  Stochastic Computing, Approximate Computing
+  - Efficient AI
 
 education:
   courses:
     - course: B.S. in Microelectronics Science and Engineering
       institution: School of Electronics Engineering and Computer Science, Peking University
       year: 2020
+    - course: Ph.D. in Microelectronics (Co-advised with Prof. Runsheng Wang)
+      institution: Peking University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +66,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 # Keep this line untouched

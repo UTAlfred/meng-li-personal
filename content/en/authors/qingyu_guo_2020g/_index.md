@@ -17,14 +17,14 @@ role: Senior Software Engineer@ByteDance
 
 # Organizations/Affiliations
 organizations:
-  - name: ByteDance Inc
+  - name: ByteDance Inc (Talent Program)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: First-author papers published in TCAS-I'24
+bio: 1st author papers x 4, 1st Place IEEE AICAS Contest
 
 interests:
-  - FPGA-based accelerator design
+  - Efficient AI
 
 education:
   courses:

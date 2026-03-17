@@ -1,0 +1,43 @@
+{{/* Table Shortcode for Wowchemy. */}}
+{{/* Load a CSV table from page dir falling back to remote URL */}}
+{{/* Defaults to expecting a comma-separated CSV with a header row. */}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := .Get "header" | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+
+{{ $rows := slice }}
+{{ if $is_remote }}
+  {{ with resources.GetRemote $src }}
+    {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ else }}
+  {{ with $.Page.Resources.GetMatch $src }}
+    {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ end }}
+
+<table>
+  {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

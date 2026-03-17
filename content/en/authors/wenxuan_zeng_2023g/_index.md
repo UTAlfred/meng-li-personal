@@ -24,8 +24,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient Deep Learning
-  - Privacy-preserving Machine Learning
+  - Privacy-Preserving AI
 
 education:
   courses:

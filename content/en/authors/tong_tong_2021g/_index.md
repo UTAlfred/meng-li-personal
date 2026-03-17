@@ -9,11 +9,12 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2021
+weight: 2023
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Master Student (Co-advised with Prof. Jinlong Lin, 2021)
+# role: Master Student (Co-advised with Prof. Jinlong Lin, 2021)
+role: Hardware Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +25,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Privacy-preserving deep learning 
+  - Privacy-Preserving AI
 
 education:
   courses:
