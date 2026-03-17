@@ -1,0 +1,26 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $columns := $page.Params.design.columns | default "2" }}
+
+<!-- Accomplishments widget — single card, bulleted list -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $page.Content }}{{ . }}{{ end }}
+
+  {{ if $page.Params.item }}
+  <div class="card experience course">
+    <div class="card-body">
+      <ul class="accomplishments-list">
+        {{ range sort $page.Params.item ".date_start" "desc" }}
+        <li>
+          <span class="accomplishment-title">{{ .title | markdownify | emojify }}</span>
+          <span class="accomplishment-meta">
+            — {{ .organization | markdownify | emojify }},
+            {{ (time .date_start) | time.Format ($page.Params.date_format | default "Jan 2006") }}
+          </span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  {{ end }}
+</div>

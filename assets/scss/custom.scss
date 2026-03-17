@@ -1,3 +1,29 @@
+// ── Accomplishments single-card list ─────────────────────────────────────────
+
+.accomplishments-list {
+  list-style: disc;
+  padding-left: 1.25rem;
+  margin: 0;
+
+  li {
+    padding: 0.2rem 0;
+    line-height: 1.5;
+  }
+
+  .accomplishment-title {
+    font-weight: 500;
+  }
+
+  .accomplishment-meta {
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+}
+
+.dark .accomplishments-list .accomplishment-meta {
+  color: #adb5bd;
+}
+
 // ── Alumni compact table ─────────────────────────────────────────────────────
 
 .alumni-compact {
