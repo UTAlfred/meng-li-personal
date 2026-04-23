@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-04-23"
+  description: ""
+  organization: ACM SIGDA
+  organization_url: 
+  title: ACM SIGDA Outstanding Young Faculty Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2025-09-11"
   description: ""
   organization: Ant Group
