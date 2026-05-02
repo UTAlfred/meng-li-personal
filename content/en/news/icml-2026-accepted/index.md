@@ -6,10 +6,10 @@ subtitle: Three papers on efficient reasoning, sparse attention, and diffusion L
 summary: We have 3 papers accepted by ICML'2026 on efficient AI, including efficient parallel reasoning, sparse attention, and MoE-based diffusion LLMs.
 
 # Date published
-date: "2026-05-03T00:00:00Z"
+date: "2026-05-01T00:00:00Z"
 
 # Date updated
-lastmod: "2026-05-03T00:00:00Z"
+lastmod: "2026-05-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
