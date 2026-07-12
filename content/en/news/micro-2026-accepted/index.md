@@ -6,10 +6,10 @@ subtitle: Two papers on privacy-preserving AI accelerators (i.e., OptiPrime and 
 summary: Two papers on privacy-preserving AI accelerators (i.e., OptiPrime and Helios) are accepted by MICRO 2026. One paper on efficient AI (i.e., MatMoE) is accepted by ICCAD 2026.
 
 # Date published
-date: "2026-07-12T00:00:00Z"
+date: "2026-07-11T00:00:00Z"
 
 # Date updated
-lastmod: "2026-07-12T00:00:00Z"
+lastmod: "2026-07-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
