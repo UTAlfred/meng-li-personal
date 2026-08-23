@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Projects
-subtitle: ''
+subtitle: 'More opensource projects available through [github](https://github.com/PKU-SEC-Lab)'
 
 content:
   # Page type to display. E.g. project.
