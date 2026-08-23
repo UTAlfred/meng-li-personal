@@ -9,25 +9,28 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2023
+weight: 2026
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Master Student (2023)
+role: PhD, Tsinghua University
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
-    url: 'https://www.pku.edu.cn'
+  - name: PhD, Tsinghua University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 2+ first-author papers
 
 interests:
   - Efficient AI
 
 education:
   courses:
+    - course: M.S.
+      institution: Peking University
+      year: 2026
     - course: B.S. in Electrical Engineering
       institution: Beijing Institute of Technology
       year: 2023
@@ -62,9 +65,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - Master Students
+  - Alumni
 ---
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-

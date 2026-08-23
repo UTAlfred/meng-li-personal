@@ -6,22 +6,23 @@ title: Weikai Xu
 authors:
   - weikai_xu_2021g
 
-weight: 2021
+weight: 2026
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Graduate Students (Co-advised with Prof. Ru Huang)
+role: Postdoctoral Fellow
+co_advised_with: Prof. Ru Huang
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University 
+  - name: Postdoc, HKUST
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 1st author papers x 8, 国家奖学金等
+bio: 10+ first-author papers; recipient of 北京大学五四奖章, 北京市优秀毕业生, 北京市优秀毕业论文等
 
 # My research interests include VLSI reliability-aware timing analysis and reliability-enhanced design optimization.
 interests:
@@ -29,6 +30,9 @@ interests:
 
 education:
   courses:
+    - course: Ph.D. in Microelectronics (co-advised w/ Prof. Ru Huang)
+      institution: Peking University
+      year: 2026
     - course: B.S. in Micro-electronics
       institution: Tianjin University
       year: 2021
@@ -63,9 +67,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-

@@ -90,6 +90,10 @@
     line-height: 1.4;
   }
 
+  tbody td:nth-child(n + 2) {
+    font-size: 0.65rem;
+  }
+
   .alumni-name {
     font-weight: 600;
     white-space: nowrap;

@@ -14,6 +14,7 @@ superuser: false
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: Software Engineer (Co-advised with Prof. Runsheng Wang, 2020)
+co_advised_with: Prof. Runsheng Wang
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +72,3 @@ user_groups:
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-

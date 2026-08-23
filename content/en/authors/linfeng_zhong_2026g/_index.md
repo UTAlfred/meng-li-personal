@@ -13,7 +13,7 @@ weight: 2026
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (2026)
+role: PhD Student (co-advised w/ Prof. Yuan Wang, 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -61,4 +61,3 @@ user_groups:
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-

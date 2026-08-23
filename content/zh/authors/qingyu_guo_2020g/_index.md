@@ -14,6 +14,7 @@ superuser: false
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: PhD Student (Co-advised with Prof. Yuan Wang, 2020)
+co_advised_with: Prof. Yuan Wang
 
 # Organizations/Affiliations
 organizations:

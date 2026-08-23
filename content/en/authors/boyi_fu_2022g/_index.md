@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (2022)
+role: Master Student (2022)
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - PhD Students
+  - Master Students
 ---
 
 # Keep this line untouched

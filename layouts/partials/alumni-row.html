@@ -30,7 +30,7 @@
 {{ end }}
 
 <tr>
-  <td class="alumni-name">{{ $person.Title }}<br><span class="alumni-degree">{{ $degree }}</span></td>
+  <td class="alumni-name">{{ $person.Title }}<br><span class="alumni-degree">{{ $degree }}</span>{{ with $person.Params.co_advised_with }}<span class="alumni-degree">co-advised w/ {{ . }}</span>{{ end }}</td>
   <td class="alumni-interests">{{ delimit $person.Params.interests ", " | markdownify | emojify }}</td>
   <td class="alumni-bio">{{ with $person.Params.bio }}{{ . | markdownify | emojify }}{{ end }}</td>
   <td class="alumni-company">{{ $position }}</td>

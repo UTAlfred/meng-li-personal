@@ -14,6 +14,7 @@ superuser: false
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: Senior Software Engineer@ByteDance
+co_advised_with: Prof. Yuan Wang
 
 # Organizations/Affiliations
 organizations:

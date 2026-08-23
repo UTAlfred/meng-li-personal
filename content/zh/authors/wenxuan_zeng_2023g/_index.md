@@ -9,19 +9,20 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2023
+weight: 2026
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: Master/PhD Student (Co-advised with Prof. Runsheng Wang, 2023)
+role: Tencent Inc (Talent Program)
+co_advised_with: Prof. Runsheng Wang
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
-    url: 'https://www.pku.edu.cn'
+  - name: Tencent Inc (Talent Program)
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 5+ first-author papers; recipient of 北京大学优秀毕业论文
 
 interests:
   - Efficient Deep Learning
@@ -29,6 +30,9 @@ interests:
 
 education:
   courses:
+    - course: M.S. (Co-advised with Prof. Runsheng Wang)
+      institution: Peking University
+      year: 2026
     - course: B.S. in Software Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
       year: 2023
@@ -63,9 +67,8 @@ email: 'zwx.andy@outlook.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 # One of [Grad Students, Undergrad Students]
 user_groups:
-  - Master Students
+  - Alumni
 ---
 
 # Keep this line untouched
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-

@@ -30,7 +30,7 @@ education:
   courses:
     - course: B.S. in Applied Physics
       institution: Peking University
-      year: 2025
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
