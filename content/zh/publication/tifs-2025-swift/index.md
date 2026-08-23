@@ -8,7 +8,7 @@ authors:
 - Yu Fu
 - Yu Tong
 - Yijing Ning
-- Tianshi Xu
+- tianshi_xu_2023g
 - admin
 - Jingqiang Lin
 - Dengguo Feng
@@ -87,4 +87,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

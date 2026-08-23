@@ -5,8 +5,8 @@ title: "CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yifan Zhou
-- Tianshi Xu
+- yifan_zhou_2026g
+- tianshi_xu_2023g
 - Jue Hong
 - Ye Wu
 - admin

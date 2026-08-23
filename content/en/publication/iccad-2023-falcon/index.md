@@ -6,7 +6,7 @@ Efficient Private Mobile Network Inference"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tianshi Xu
+- tianshi_xu_2023g
 - admin
 - Runsheng Wang
 - Ru Huang
@@ -80,4 +80,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

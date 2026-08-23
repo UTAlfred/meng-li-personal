@@ -5,9 +5,9 @@ title: "FlexHE: A flexible Kernel Generation Framework for Homomorphic Encryptio
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jiangrui Yu
-- Wenxuan Zeng
-- Tianshi Xu
+- jiangrui_yu_2024g
+- wenxuan_zeng_2023g
+- tianshi_xu_2023g
 - Renze Chen
 - Yun (Eric) Liang
 - Runsheng Wang
@@ -89,4 +89,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

@@ -5,8 +5,8 @@ title: "KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zebin Yang
-- Tong Xie
+- zebin_yang_2024g
+- tong_xie_2024g
 - Baotong Lu
 - Shaoshan Liu
 - Bo Yu
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

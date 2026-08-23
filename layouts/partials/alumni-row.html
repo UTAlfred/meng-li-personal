@@ -1,5 +1,6 @@
 {{/* Renders one alumni <tr>. Expects dict with key "person". */}}
 {{ $person := .person }}
+{{ $username := path.Base $person.Path }}
 
 {{/* ── Highest degree ── */}}
 {{ $degree := "" }}
@@ -29,7 +30,7 @@
   {{ $position = .name }}
 {{ end }}
 
-<tr>
+<tr id="student-{{ $username }}">
   <td class="alumni-name">{{ $person.Title }}<br><span class="alumni-degree">{{ $degree }}</span>{{ with $person.Params.co_advised_with }}<span class="alumni-degree">co-advised w/ {{ . }}</span>{{ end }}</td>
   <td class="alumni-interests">{{ delimit $person.Params.interests ", " | markdownify | emojify }}</td>
   <td class="alumni-bio">{{ with $person.Params.bio }}{{ . | markdownify | emojify }}{{ end }}</td>

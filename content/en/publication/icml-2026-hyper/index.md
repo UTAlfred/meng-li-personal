@@ -5,9 +5,9 @@ title: "HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shengxuan Qiu
-- Haochen Huang
-- Shuzhang Zhong
+- shengxuan_qiu_2027g
+- haochen_huang_2026g
+- shuzhang_zhong_2023g
 - Pengfei Zuo
 - admin
 

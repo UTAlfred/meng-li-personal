@@ -5,9 +5,9 @@ title: "Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shuzhang Zhong
-- Haochen Huang
-- Shengxuan Qiu
+- shuzhang_zhong_2023g
+- haochen_huang_2026g
+- shengxuan_qiu_2027g
 - Pengfei Zuo
 - Runsheng Wang
 - admin

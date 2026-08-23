@@ -5,7 +5,7 @@ title: "TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Di
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Linye Wei
+- linye_wei_2025g
 - Zixiang Luo
 - Pingzhi Tang
 - admin

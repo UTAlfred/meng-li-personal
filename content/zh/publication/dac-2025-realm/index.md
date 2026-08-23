@@ -5,10 +5,10 @@ title: "ReaLM: Reliable and Efficient Large Language Model Inference with Statis
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Xie
+- tong_xie_2024g
 - Jiawang Zhao
 - Zishen Wan
-- Zuodong Zhang
+- zuodong_zhang_2018g
 - Yuan Wang
 - Runsheng Wang
 - Ru Huang
@@ -90,4 +90,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

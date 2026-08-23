@@ -6,6 +6,9 @@ authors:
 
 superuser: false
 
+build:
+  render: always
+
 weight: 2027
 
 role: PhD Student (2027)
@@ -24,15 +27,9 @@ education:
       year: 2027
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: ''
 
 email: ''
 
 user_groups:
   - PhD Students
 ---
-
-# Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

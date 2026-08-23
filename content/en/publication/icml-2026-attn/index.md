@@ -5,8 +5,8 @@ title: "Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Trainin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zizhuo Fu
-- Wenxuan Zeng
+- zizhuo_fu_2026g
+- wenxuan_zeng_2023g
 - Runsheng Wang
 - admin
 

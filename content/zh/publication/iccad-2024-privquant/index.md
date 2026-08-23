@@ -5,9 +5,9 @@ title: "PrivQuant: Communication-Efficient Private Inference with Quantized Netw
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tianshi Xu
-- Shuzhang Zhong
-- Wenxuan Zeng
+- tianshi_xu_2023g
+- shuzhang_zhong_2023g
+- wenxuan_zeng_2023g
 - Runsheng Wang
 - admin
 
@@ -84,4 +84,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

@@ -6,9 +6,9 @@ title: "Not your father’s stochastic computing (SC)! Efficient yet Accurate En
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yixuan Hu
-- Tengyu Zhang
-- Renjie Wei
+- yixuan_hu_2020g
+- tengyu_zhang_2022g
+- renjie_wei_2022g
 - Yawen Zhang
 - Ru Huang
 - Runsheng Wang
@@ -87,4 +87,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

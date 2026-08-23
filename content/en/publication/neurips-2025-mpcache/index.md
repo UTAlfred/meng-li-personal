@@ -5,7 +5,7 @@ title: "MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Infere
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Wenxuan Zeng
+- wenxuan_zeng_2023g
 - Ye Dong
 - Jinjin Zhou
 - Jin Tan

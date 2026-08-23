@@ -5,9 +5,9 @@ title: "FENIX: Flexible and Efficient Hybrid HE/MPC Acceleration with Near-Memor
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tengyu Zhang
-- Chenqi Lin
-- Jiangrui Yu
+- tengyu_zhang_2022g
+- chenqi_lin_2024g
+- jiangrui_yu_2024g
 - Shuwen Deng
 - admin
 
@@ -83,4 +83,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

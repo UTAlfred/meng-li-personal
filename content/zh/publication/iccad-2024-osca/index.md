@@ -5,8 +5,8 @@ title: "OSCA: End-to-end Serial Stochastic Computing Neural Acceleration with Fi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yixuan Hu
-- Yikang Jia
+- yixuan_hu_2020g
+- yikang_jia_2022g
 - admin
 - Yuan Wang
 - Runsheng Wang
@@ -83,4 +83,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

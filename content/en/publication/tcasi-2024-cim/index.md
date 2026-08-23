@@ -6,10 +6,10 @@ title: "A 16.38TOPS and 4.55POPS/W SRAM Computing-in-Memory Macro for Signed Ope
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Xin Qiao
-- Qingyu Guo
+- qingyu_guo_2020g
 - Xiyuan Tang
 - Jiahao Song
-- Renjie Wei
+- renjie_wei_2022g
 - admin
 - Runsheng Wang
 - Yuan Wang
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

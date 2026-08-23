@@ -5,7 +5,7 @@ title: "No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Linye Wei
+- linye_wei_2025g
 - Jiajun Tang
 - Fan Fei
 - Boxin Shi
@@ -86,4 +86,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

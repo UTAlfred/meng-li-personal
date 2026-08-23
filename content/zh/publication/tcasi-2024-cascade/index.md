@@ -5,7 +5,7 @@ title: "CASCADE: A Framework for CNN Accelerator Synthesis with Concatenation an
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Qingyu Guo
+- qingyu_guo_2020g
 - Haoyang Luo
 - admin
 - Xiyuan Tang
@@ -84,4 +84,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

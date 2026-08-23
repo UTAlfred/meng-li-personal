@@ -5,7 +5,7 @@ title: "MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zebin Yang
+- zebin_yang_2024g
 - Renze Chen
 - Taiqiang Wu
 - Ngai Wong
@@ -90,4 +90,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

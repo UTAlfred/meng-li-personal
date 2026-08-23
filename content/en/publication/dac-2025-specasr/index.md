@@ -5,9 +5,9 @@ title: "SpecASR: Accelerating LLM-based Automatic Speech Recognition via Specula
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Linye Wei
-- Shuzhang Zhong
-- Songqiang Xu
+- linye_wei_2025g
+- shuzhang_zhong_2023g
+- songqiang_xu_2023g
 - Runsheng Wang
 - Ru Huang
 - admin
@@ -86,4 +86,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

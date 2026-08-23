@@ -5,8 +5,8 @@ title: "RePart: Efficient Hypergraph Partitioning with Logic Replication Optimiz
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zizhuo Fu
-- Yifan Zhou
+- zizhuo_fu_2026g
+- yifan_zhou_2026g
 - Zhaoxin Lu
 - Guangyu Sun
 - Runsheng Wang

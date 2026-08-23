@@ -5,7 +5,7 @@ title: "Compact Non-Volatile Lookup Table Architecture based on Ferroelectric FE
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Weikai Xu
+- weikai_xu_2021g
 - admin
 - Qianqian Huang
 - Ru Huang

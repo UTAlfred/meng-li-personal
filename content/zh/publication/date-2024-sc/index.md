@@ -5,9 +5,9 @@ title: "ASCEND: Accurate yet Efficient End-to-End Stochastic Computing Accelerat
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Xie
-- Yixuan Hu
-- Renjie Wei
+- tong_xie_2024g
+- yixuan_hu_2020g
+- renjie_wei_2022g
 - admin
 - Runsheng Wang
 - Yuan Wang

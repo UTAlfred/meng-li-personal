@@ -5,11 +5,11 @@ title: "OptiPrime: Optimizing Private Inference through protocol-hardware codesi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jiangrui Yu
+- jiangrui_yu_2024g
 - Ye Yu
 - Si Chen
-- Chenqi Lin
-- Wenxuan Zeng
+- chenqi_lin_2024g
+- wenxuan_zeng_2023g
 - Junfeng Fan
 - Mingyu Gao
 - admin
@@ -89,4 +89,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

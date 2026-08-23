@@ -5,9 +5,9 @@ title: "NICE: 3D-NAND-based In-Memory-Computing with In-Situ ECC-Protection for 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Boyi Fu
-- Weikai Xu
-- Tong Xie
+- boyi_fu_2022g
+- weikai_xu_2021g
+- tong_xie_2024g
 - Jin Luo
 - Yaoyu Tao
 - admin

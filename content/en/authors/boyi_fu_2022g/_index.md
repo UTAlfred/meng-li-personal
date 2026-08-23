@@ -11,6 +11,9 @@ weight: 2022
 # Is this the primary user of the site?
 superuser: false
 
+build:
+  render: always
+
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: Master Student (2022)
@@ -37,9 +40,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +55,3 @@ email: ''
 user_groups:
   - Master Students
 ---
-
-# Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

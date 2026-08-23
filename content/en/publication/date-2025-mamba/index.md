@@ -5,11 +5,11 @@ title: "LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and H
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Renjie Wei
-- Songqiang Xu
-- Linfeng Zhong
-- Zebin Yang
-- Qingyu Guo
+- renjie_wei_2022g
+- songqiang_xu_2023g
+- linfeng_zhong_2026g
+- zebin_yang_2024g
+- qingyu_guo_2020g
 - Yuan Wang
 - Runsheng Wang
 - admin

@@ -8,7 +8,7 @@ authors:
 - Xin Qiao
 - Jiahao Song
 - Youming Yang
-- Renjie Wei
+- renjie_wei_2022g
 - Xiyuan Tang
 - admin
 - Runsheng Wang
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

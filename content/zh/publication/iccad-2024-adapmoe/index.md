@@ -5,7 +5,7 @@ title: "AdapMoE: Adaptive Sensitivity-based Expert Gating and Management for Eff
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shuzhang Zhong
+- shuzhang_zhong_2023g
 - Ling Liang
 - Yuan Wang
 - Runsheng Wang
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

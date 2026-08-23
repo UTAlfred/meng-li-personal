@@ -5,8 +5,8 @@ title: "UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pru
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Weikai Xu
-- Wenxuan Zeng
+- weikai_xu_2021g
+- wenxuan_zeng_2023g
 - Qianqian Huang
 - admin
 - Ru Huang
@@ -84,4 +84,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

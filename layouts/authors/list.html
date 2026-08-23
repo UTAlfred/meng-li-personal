@@ -1,0 +1,30 @@
+{{- define "main" -}}
+
+{{/* Author profile page. The taxonomy root is intentionally left blank. */}}
+{{ $username := "" }}
+{{ with .File }}
+  {{ $username = path.Base (path.Split .Path).Dir }}
+{{ end }}
+
+{{ if and .File (ne $username "authors") }}
+  <section id="profile-page" class="pt-5">
+    <div class="container">
+      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ partial "widgets/about.html" $params }}
+
+      {{ $query := where .Pages ".IsNode" false }}
+      {{ if $query }}
+        <div class="article-widget content-widget-hr">
+          <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+          <ul>
+            {{ range $query }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
+
+{{- end -}}

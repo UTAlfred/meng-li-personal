@@ -5,9 +5,9 @@ title: "CREATE: Cross-Layer Resilience Characterization and Optimization for Eff
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Xie
+- tong_xie_2024g
 - Yijiahao Qi
-- Jinqi Wen
+- jinqi_wen_2026g
 - Zishen Wan
 - Yanchi Dong
 - Zihao Wang

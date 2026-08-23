@@ -5,10 +5,10 @@ title: "EfficientNav: Towards On-Device Object-Goal Navigation with Navigation M
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zebin Yang
+- zebin_yang_2024g
 - Sunjian Zheng
-- Tong Xie
-- Tianshi Xu
+- tong_xie_2024g
+- tianshi_xu_2023g
 - Bo Yu
 - Fan Wang
 - Jie Tang

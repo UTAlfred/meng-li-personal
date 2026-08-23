@@ -5,7 +5,7 @@ title: "READ: Reliability-Enhanced Accelerator Dataflow Optimization using Criti
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zuodong Zhang
+- zuodong_zhang_2018g
 - admin
 - Yibo Lin
 - Runsheng Wang
@@ -80,4 +80,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

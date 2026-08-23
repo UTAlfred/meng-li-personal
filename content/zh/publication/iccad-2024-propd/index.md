@@ -5,8 +5,8 @@ title: "ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decodi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shuzhang Zhong
-- Zebin Yang
+- shuzhang_zhong_2023g
+- zebin_yang_2024g
 - Ruihao Gong
 - Runsheng Wang
 - Ru Huang
@@ -86,4 +86,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

@@ -5,10 +5,10 @@ title: "H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Effi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zizhuo Fu
+- zizhuo_fu_2026g
 - Xiaotian Guo
-- Wenxuan Zeng
-- Shuzhang Zhong
+- wenxuan_zeng_2023g
+- shuzhang_zhong_2023g
 - Yadong Zhang
 - Peiyu Chen
 - Runsheng Wang
@@ -92,4 +92,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

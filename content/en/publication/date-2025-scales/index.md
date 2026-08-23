@@ -5,7 +5,7 @@ title: "SCALES: Boost Binary Neural Network for Image Super-Resolution with Effi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Renjie Wei
+- renjie_wei_2022g
 - Zechun Liu
 - Yuchen Fan
 - Runsheng Wang

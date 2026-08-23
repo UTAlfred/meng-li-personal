@@ -5,11 +5,11 @@ title: "Breaking the Layer Barrier: Remodeling Private Transformer Inference wit
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tianshi Xu
+- tianshi_xu_2023g
 - Wenjie Lu
-- Jiangrui Yu
-- Chenqi Lin
-- Yi Chen
+- jiangrui_yu_2024g
+- chenqi_lin_2024g
+- yi_chen_2025g
 - Runsheng Wang
 - admin
 
@@ -87,4 +87,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

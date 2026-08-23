@@ -11,6 +11,9 @@ weight: 2018
 # Is this the primary user of the site?
 superuser: false
 
+build:
+  render: always
+
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: Graduate Students (Co-advised with Prof. Runsheng Wang)
@@ -42,9 +45,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:zuodongzhang@pku.edu.cn'
 #   - icon: twitter
 #     icon_pack: 
 #     link: 
@@ -69,6 +69,3 @@ email: 'zuodongzhang@pku.edu.cn'
 user_groups:
   - Alumni
 ---
-
-# Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

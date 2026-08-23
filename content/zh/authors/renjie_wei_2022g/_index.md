@@ -11,6 +11,9 @@ weight: 2022
 # Is this the primary user of the site?
 superuser: false
 
+build:
+  render: always
+
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
 role: PhD Student (2022)
@@ -37,15 +40,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:2201111491@stu.pku.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: 'https://scholar.google.com/citations?user=u0bgiYAAAAAJ&hl=zh-CN'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/Jasonrjw'
@@ -64,6 +64,3 @@ email: '2201111491@stu.pku.edu.cn'
 user_groups:
   - PhD Students
 ---
-
-# Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

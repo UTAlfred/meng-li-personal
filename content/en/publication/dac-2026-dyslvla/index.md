@@ -5,9 +5,9 @@ title: "DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-S
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zebin Yang
+- zebin_yang_2024g
 - Yijiahao Qi
-- Tong Xie
+- tong_xie_2024g
 - Bo Yu
 - Shaoshan Liu
 - admin
@@ -86,4 +86,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

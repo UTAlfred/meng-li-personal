@@ -53,6 +53,14 @@
   color: #adb5bd;
 }
 
+// ── Student author profile alignment ─────────────────────────────────────────
+
+@media (min-width: 992px) {
+  #profile-page > .container > .row > .col-lg-8 > .row {
+    margin-top: 8rem;
+  }
+}
+
 // ── Alumni compact table ─────────────────────────────────────────────────────
 
 .alumni-compact {
@@ -91,7 +99,7 @@
   }
 
   tbody td:nth-child(n + 2) {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
   }
 
   .alumni-name {

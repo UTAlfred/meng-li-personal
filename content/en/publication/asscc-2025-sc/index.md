@@ -5,10 +5,10 @@ title: "A 28nm 534.6TOPS/W Mixed-Precision Edge Accelerator for Embodied AI Usin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tengyu Zhang
-- Tong Xie
+- tengyu_zhang_2022g
+- tong_xie_2024g
 - Haoyang Luo
-- Yixuan Hu
+- yixuan_hu_2020g
 - Yaoyu Tao
 - Xiyuan Tang
 - Yuan Wang
@@ -91,4 +91,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

@@ -5,7 +5,7 @@ title: "FLASH: An Efficient Hardware Accelerator Leveraging Approximate and Spar
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tengyu Zhang
+- tengyu_zhang_2022g
 - Yufei Xue
 - Ling Liang
 - Zhen Gu

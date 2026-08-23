@@ -5,9 +5,9 @@ title: "Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewri
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yi Chen
-- Ziyu Tang
-- Chao Yang
+- yi_chen_2025g
+- ziyu_tang_2027g
+- chao_yang_2025g
 - Guang Fan
 - Mingzhe Zhang
 - admin
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

@@ -5,9 +5,9 @@ title: "Aging Aware Adaptive Voltage Scaling for Reliable and Efficient AI Accel
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Xie
-- Zuodong Zhang
-- Chao Yang
+- tong_xie_2024g
+- zuodong_zhang_2018g
+- chao_yang_2025g
 - Yuan Wang
 - Runsheng Wang
 - admin

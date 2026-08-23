@@ -5,10 +5,10 @@ title: "MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quant
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Renjie Wei
-- Haochen Huang
+- renjie_wei_2022g
+- haochen_huang_2026g
 - Chuyu Qiu
-- Jinqi Wen
+- jinqi_wen_2026g
 - Dehao Xu
 - admin
 
@@ -85,4 +85,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-

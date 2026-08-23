@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+build:
+  render: always
+
 weight: 2023
 
 # Role/position
@@ -41,9 +44,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:tongtong@stu.pku.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +59,3 @@ email: 'tongtong@stu.pku.edu.cn'
 user_groups:
   - Alumni
 ---
-
-# Keep this line untouched
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
