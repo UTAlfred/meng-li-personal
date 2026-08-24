@@ -21,7 +21,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2024-09-03T00:00:00Z"
-doi: ""
+doi: "10.1109/TCSI.2024.3452954"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-03T00:00:00Z"
@@ -46,14 +46,14 @@ tags:
 - Hardware Acc
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/TCSI.2024.3452954'
 url_code: ''
 url_dataset: ''
 url_poster: ''

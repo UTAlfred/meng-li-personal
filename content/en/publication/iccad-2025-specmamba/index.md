@@ -25,7 +25,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2025-10-27T00:00:00Z"
-doi: ""
+doi: "10.1109/ICCAD66269.2025.11240945"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-27T00:00:00Z"
@@ -49,14 +49,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/11240945'
 url_code: ''
 url_dataset: ''
 url_poster: ''

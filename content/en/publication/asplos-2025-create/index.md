@@ -34,7 +34,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2026-03-01T00:00:00Z"
-doi: ""
+doi: "10.1145/3779212.3790147"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-01T00:00:00Z"
@@ -52,7 +52,7 @@ publication_short: In *International Conference on Architectural Support for Pro
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "A cross-layer framework that exploits heterogeneous resilience to improve the energy efficiency and reliability of embodied AI systems."
 
 tags: 
 - Efficient AI
@@ -65,7 +65,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3779212.3790147'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -40,7 +40,7 @@ publication_short: In *USENIX Symposium on Operating Systems Design and Implemen
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "A speculative exploration system that breaks reward synchronization barriers to accelerate scalable Tree-of-Thought reasoning."
 
 tags: 
 - Efficient AI
@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2605.10195'
 url_code: ''
 url_dataset: ''
 url_poster: ''

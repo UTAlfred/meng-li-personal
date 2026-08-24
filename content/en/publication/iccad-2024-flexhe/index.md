@@ -27,7 +27,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2024-10-27T00:00:00Z"
-doi: ""
+doi: "10.1145/3676536.3676739"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-27T00:00:00Z"
@@ -51,14 +51,14 @@ tags:
 - Private AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3676536.3676739'
 url_code: ''
 url_dataset: ''
 url_poster: ''

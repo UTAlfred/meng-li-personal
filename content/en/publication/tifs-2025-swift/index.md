@@ -25,7 +25,7 @@ author_notes:
 -
 
 date: "2025-03-02T00:00:00Z"
-doi: ""
+doi: "10.1109/TIFS.2025.3547308"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-02T00:00:00Z"
@@ -49,14 +49,14 @@ tags:
 - Private AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/TIFS.2025.3547308'
 url_code: ''
 url_dataset: ''
 url_poster: ''

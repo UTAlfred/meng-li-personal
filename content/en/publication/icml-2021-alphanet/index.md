@@ -43,14 +43,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2102.07954.pdf'
+url_pdf: 'https://proceedings.mlr.press/v139/wang21i.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''

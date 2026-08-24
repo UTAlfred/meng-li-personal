@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-05-22T00:00:00Z"
-doi: ""
+doi: "10.1109/ICASSP43922.2022.9746469"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-05T00:00:00Z"
@@ -46,14 +46,14 @@ tags:
 - Speech
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2110.08352.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/document/9746469'
 url_code: ''
 url_dataset: ''
 url_poster: ''

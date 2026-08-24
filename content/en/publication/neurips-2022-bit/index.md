@@ -20,7 +20,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2022-09-27T00:00:00Z"
-doi: ""
+doi: "10.52202/068431-1040"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-09-27T00:00:00Z"
@@ -44,14 +44,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2205.13016.pdf'
+url_pdf: 'https://doi.org/10.52202/068431-1040'
 url_code: ''
 url_dataset: ''
 url_poster: ''

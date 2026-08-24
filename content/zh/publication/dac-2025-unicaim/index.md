@@ -21,7 +21,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2025-02-25T00:00:00Z"
-doi: ""
+doi: "10.1109/DAC63849.2025.11133273"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-25T00:00:00Z"
@@ -39,7 +39,7 @@ publication_short: In *Design Automation Conference (DAC) 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "面向长上下文大语言模型推理，融合静态—动态 KV Cache 剪枝的统一 CAM/CIM 架构。"
 
 tags: 
 - Hardware Acc
@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/11133273'
 url_code: ''
 url_dataset: ''
 url_poster: ''

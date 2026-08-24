@@ -49,14 +49,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2511.21759'
+url_pdf: 'https://arxiv.org/abs/2511.21759'
 url_code: 'https://github.com/PKU-SEC-Lab/ODB-dLLM'
 url_dataset: ''
 url_poster: ''

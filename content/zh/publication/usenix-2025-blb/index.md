@@ -43,7 +43,7 @@ publication_short: In *Usenix Security Symposium 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "通过细粒度算子融合重构私有 Transformer 推理的混合 CKKS/MPC 框架。"
 
 tags: 
 - Privacy-Preserving AI
@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/conference/usenixsecurity25/presentation/xu-tianshi'
 url_code: ''
 url_dataset: ''
 url_poster: ''

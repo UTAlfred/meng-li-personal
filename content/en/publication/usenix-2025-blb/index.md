@@ -43,7 +43,7 @@ publication_short: In *Usenix Security Symposium 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "A hybrid CKKS/MPC framework that remodels private Transformer inference through fine-grained operator fusion."
 
 tags: 
 - Private AI
@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/conference/usenixsecurity25/presentation/xu-tianshi'
 url_code: ''
 url_dataset: ''
 url_poster: ''

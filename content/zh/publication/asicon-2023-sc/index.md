@@ -25,7 +25,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2023-10-24T00:00:00Z"
-doi: ""
+doi: "10.1109/ASICON58565.2023.10396503"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-24T00:00:00Z"
@@ -49,14 +49,14 @@ tags:
 - Private Inference
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/10396503'
 url_code: ''
 url_dataset: ''
 url_poster: ''

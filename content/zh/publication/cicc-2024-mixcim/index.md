@@ -22,7 +22,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2024-01-09T00:00:00Z"
-doi: ""
+doi: "10.1109/CICC60959.2024.10529086"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-09T00:00:00Z"
@@ -47,14 +47,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/10529086'
 url_code: ''
 url_dataset: ''
 url_poster: ''

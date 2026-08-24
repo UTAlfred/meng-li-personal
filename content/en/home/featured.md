@@ -8,16 +8,16 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 65
 
-title: Featured Publications
-subtitle: ""
+title: Selected Publications
+subtitle: "Representative work across efficient AI systems, privacy-preserving inference, and algorithm–hardware co-design"
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 6
   # Filter on criteria
   filters:
     author: ""
@@ -33,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

@@ -43,14 +43,14 @@ tags:
 - Federated Learning
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1806.00582.pdf'
+url_pdf: 'https://arxiv.org/abs/1806.00582'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,3 +1,170 @@
+// Research statement
+
+// Horizontal experience timeline
+
+@media (min-width: 992px) {
+  #experience {
+    .section-heading {
+      margin-bottom: 1.5rem !important;
+      text-align: center;
+      align-items: center !important;
+    }
+
+    > .container > .row > .col-12:last-child {
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1rem;
+      padding-top: 2rem;
+
+      &::before {
+        position: absolute;
+        top: 0.55rem;
+        right: 12.5%;
+        left: 12.5%;
+        height: 2px;
+        background: rgba(41, 98, 255, 0.28);
+        content: "";
+      }
+    }
+
+    .row.experience {
+      position: relative;
+      display: block;
+      min-width: 0;
+      margin: 0;
+
+      &::before {
+        position: absolute;
+        top: -1.75rem;
+        left: 50%;
+        z-index: 1;
+        width: 0.8rem;
+        height: 0.8rem;
+        border: 2px solid #2962ff;
+        border-radius: 50%;
+        background: #fff;
+        content: "";
+        transform: translateX(-50%);
+      }
+
+      &:first-child::before {
+        background: #2962ff;
+      }
+
+      > .col-auto {
+        display: none !important;
+      }
+
+      > .col {
+        height: 100%;
+        padding: 0 !important;
+      }
+
+      .card {
+        height: 100%;
+        margin: 0;
+        border: 1px solid rgba(15, 23, 42, 0.08);
+        border-radius: 0.65rem;
+        box-shadow: 0 0.2rem 0.75rem rgba(15, 23, 42, 0.05);
+      }
+
+      .card-body {
+        padding: 1rem;
+      }
+
+      .exp-title {
+        font-size: 0.95rem;
+        line-height: 1.35;
+      }
+
+      .exp-company {
+        font-size: 0.9rem;
+      }
+
+      .card-text {
+        margin-top: 0.65rem;
+      }
+
+      .card-text ul {
+        padding-left: 1rem;
+      }
+    }
+  }
+
+  .dark #experience .row.experience {
+    &::before {
+      border-color: #7d9fff;
+      background: #1f2937;
+    }
+
+    &:first-child::before {
+      background: #7d9fff;
+    }
+
+    .card {
+      border-color: rgba(255, 255, 255, 0.1);
+      box-shadow: none;
+    }
+  }
+}
+
+.research-statement {
+  position: relative;
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.25rem 1.15rem;
+  overflow: hidden;
+  border: 1px solid rgba(41, 98, 255, 0.16);
+  border-left: 4px solid #2962ff;
+  border-radius: 0.55rem;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.08), rgba(41, 98, 255, 0.025));
+  box-shadow: 0 0.25rem 1rem rgba(15, 23, 42, 0.045);
+
+  .research-statement-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: #2451c6;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  p {
+    margin: 0;
+    color: #1e293b;
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.65;
+  }
+}
+
+.dark .research-statement {
+  border-color: rgba(125, 159, 255, 0.2);
+  border-left-color: #7d9fff;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.16), rgba(41, 98, 255, 0.045));
+  box-shadow: none;
+
+  .research-statement-label {
+    color: #9db5ff;
+  }
+
+  p {
+    color: #e2e8f0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .research-statement {
+    padding: 0.95rem 1rem;
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
+
+
 // ── Recruiting notice banner ──────────────────────────────────────────────────
 
 .recruiting-notice {

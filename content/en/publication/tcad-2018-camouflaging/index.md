@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2017-09-07T00:00:00Z"
-doi: ""
+doi: "10.1109/TCAD.2017.2750088"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-07T00:00:00Z"
@@ -43,14 +43,14 @@ tags:
 - Hardware Security
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8027112'
+url_pdf: 'https://ieeexplore.ieee.org/document/8027112'
 url_code: ''
 url_dataset: ''
 url_poster: ''

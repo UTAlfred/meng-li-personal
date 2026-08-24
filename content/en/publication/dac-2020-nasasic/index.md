@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-02-10T00:00:00Z"
-doi: ""
+doi: "10.1109/DAC18072.2020.9218676"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-10T00:00:00Z"
@@ -47,14 +47,14 @@ tags:
 - Accelerator
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2002.04116.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/document/9218676'
 url_code: ''
 url_dataset: ''
 url_poster: ''

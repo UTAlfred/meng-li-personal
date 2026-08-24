@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2017-06-18T00:00:00Z"
-doi: ""
+doi: "10.1145/3061639.3062220"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-06-18T00:00:00Z"
@@ -40,14 +40,14 @@ tags:
 - Hardware Security
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8060390'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3061639.3062220'
 url_code: ''
 url_dataset: ''
 url_poster: ''

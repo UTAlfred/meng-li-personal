@@ -41,14 +41,14 @@ tags:
 - Computer Vision
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1709.06161.pdf'
+url_pdf: 'https://arxiv.org/abs/1709.06161'
 url_code: ''
 url_dataset: ''
 url_poster: ''

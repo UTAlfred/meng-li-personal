@@ -21,7 +21,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2023-07-07T00:00:00Z"
-doi: ""
+doi: "10.1109/TCAD.2023.3255167"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-07T00:00:00Z"
@@ -45,14 +45,14 @@ tags:
 - Hardware Acc
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/TCAD.2023.3255167'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -30,7 +30,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2024-12-14T00:00:00Z"
-doi: ""
+doi: "10.52202/079017-3595"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-26T00:00:00Z"
@@ -54,14 +54,14 @@ tags:
 - Efficient ML
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2405.14569'
+url_pdf: 'https://doi.org/10.52202/079017-3595'
 url_code: ''
 url_dataset: ''
 url_poster: ''

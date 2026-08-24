@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2025-01-18T00:00:00Z"
-doi: ""
+doi: "10.1145/3658617.3697714"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-03T00:00:00Z"
@@ -41,14 +41,14 @@ tags:
 - Accelerator
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2405.02356'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3658617.3697714'
 url_code: ''
 url_dataset: ''
 url_poster: ''

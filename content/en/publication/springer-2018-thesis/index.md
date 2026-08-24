@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2018-08-15T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-030-41247-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-08-15T00:00:00Z"
@@ -38,7 +38,7 @@ tags:
 - Hardware Security
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

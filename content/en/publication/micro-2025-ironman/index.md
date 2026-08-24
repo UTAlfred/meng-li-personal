@@ -29,7 +29,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2025-10-17T00:00:00Z"
-doi: ""
+doi: "10.1145/3725843.3756025"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-17T00:00:00Z"
@@ -47,7 +47,7 @@ publication_short: In *MICRO 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "A near-memory architecture that accelerates oblivious-transfer extension, a key bottleneck in privacy-preserving AI."
 
 tags: 
 - Private AI
@@ -60,7 +60,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2507.16391'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3725843.3756025'
 url_code: ''
 url_dataset: ''
 url_poster: ''

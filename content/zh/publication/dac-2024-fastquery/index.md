@@ -21,7 +21,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2024-07-07T00:00:00Z"
-doi: ""
+doi: "10.1145/3649329.3657374"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-15T00:00:00Z"
@@ -39,7 +39,7 @@ publication_short: In *Design Automation Conference (DAC) 2024*
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "面向私有大语言模型推理的通信高效嵌入表查询方案。"
 
 tags: 
 - Hardware Acc
@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3649329.3657374'
 url_code: ''
 url_dataset: ''
 url_poster: ''

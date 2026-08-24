@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2018-10-01T00:00:00Z"
-doi: ""
+doi: "10.1109/TEST.2018.8624671"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-10-01T00:00:00Z"
@@ -40,14 +40,14 @@ tags:
 - Hardware Security
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8027112'
+url_pdf: 'https://ieeexplore.ieee.org/document/8624671'
 url_code: ''
 url_dataset: ''
 url_poster: ''

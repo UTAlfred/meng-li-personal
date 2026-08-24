@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-11-23T00:00:00Z"
-doi: ""
+doi: "10.1109/CVPR46437.2021.00111"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -41,14 +41,14 @@ tags:
 - Computer Vision
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2011.11778.pdf'
+url_pdf: 'https://doi.org/10.1109/CVPR46437.2021.00111'
 url_code: ''
 url_dataset: ''
 url_poster: ''

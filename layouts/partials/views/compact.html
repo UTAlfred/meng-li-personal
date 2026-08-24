@@ -16,7 +16,7 @@
   {{ $show_authors_only = true }}
 {{ end }}
 
-{{ $has_attachments := partial "functions/has_attachments" . }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
 
 {{/* Get summary - skip for news items. */}}
 {{ $summary := "" }}
@@ -66,6 +66,7 @@
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
+
     </div>
 
     {{ if $has_attachments }}

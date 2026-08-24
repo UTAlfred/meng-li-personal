@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 34
 
 title: Experience
 subtitle:
@@ -39,35 +39,17 @@ experience:
     date_start: '2018-09-11'
     date_end: '2022-07-15'
     description: |2-
-        Experience:
-
-        * 2018.09 - 2020.01 Research Scientist
-        * 2020.01 - 2021.06 Senior Research Scientist
-        * 2021.06 - 2022.07 Staff Research Scientist
-
-        Responsibilities include:
+        * Progressed from Research Scientist to Senior and Staff Research Scientist
+        * Tech Lead for on-device AI at Meta Reality Labs, focusing on efficient neural networks and hardware co-design for AR glasses
         
-        * Tech Lead, On-Device AI, Meta Reality Lab
-        * Efficient NN for AR Glasses
-        * Efficient NN/HW Co-Design/Co-Optimization
-        
-  - title: Research Intern
-    company: arm
+  - title: Research Intern (Summer 2016 & 2017)
+    company: Arm
     company_url: 'www.arm.com'
     # company_logo: org-arm
     location: California
-    date_start: '2017-05-01'
-    date_end: '2017-08-01'
-    description: Privacy-preserving neural network training, including federated learning with non-IID data and PrivyNet with split network architectures
-
-  - title: Research Intern
-    company: arm
-    company_url: 'www.arm.com'
-    # company_logo: org-x
-    location: California
     date_start: '2016-05-01'
-    date_end: '2016-08-01'
-    description: Cross-level monte carlo framework for system vulnerability evaluation against fault attack
+    date_end: '2017-08-01'
+    description: Hardware security and privacy-preserving AI
 
   - title: Research & Design Intern 
     company: Cadence Design System
@@ -79,5 +61,5 @@ experience:
     description: Static timing analysis acceleration
 
 design:
-  columns: '2'
+  columns: '1'
 ---

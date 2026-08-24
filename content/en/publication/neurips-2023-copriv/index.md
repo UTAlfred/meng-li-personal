@@ -18,7 +18,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2023-12-14T00:00:00Z"
-doi: ""
+doi: "10.52202/075280-3451"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-23T00:00:00Z"
@@ -36,7 +36,7 @@ publication_short: In *Conference on Neural Information Processing Systems (Neur
 abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+summary: "A network–protocol co-optimization framework for reducing the communication overhead of secure private inference."
 
 tags: 
 - Private AI
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.52202/075280-3451'
 url_code: ''
 url_dataset: ''
 url_poster: ''

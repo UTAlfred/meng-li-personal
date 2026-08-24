@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2013-03-08T00:00:00Z"
-doi: ""
+doi: "10.1149/05201.0941ecst"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-03-08T00:00:00Z"
@@ -40,7 +40,7 @@ tags:
 - Variation
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

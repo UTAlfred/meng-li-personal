@@ -28,7 +28,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2025-12-14T00:00:00Z"
-doi: ""
+doi: "10.52202/085713-0152"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-18T00:00:00Z"
@@ -52,14 +52,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.52202/085713-0152'
 url_code: ''
 url_dataset: ''
 url_poster: ''

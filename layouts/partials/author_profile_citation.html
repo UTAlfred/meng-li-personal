@@ -1,0 +1,50 @@
+{{ $item := .item }}
+{{ $author_permalink := .author_permalink }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+    <span class="article-metadata li-cite-author">
+      {{ range $index, $author := ($item.GetTerms "authors") }}
+        {{- if gt $index 0 }}, {{ end -}}
+        <span {{ if eq $author.RelPermalink $author_permalink }}class="author-highlighted"{{ end }}>
+          {{- if $author.RelPermalink -}}
+            <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+          {{- else -}}
+            {{ $author.LinkTitle }}
+          {{- end -}}
+        </span>
+        {{- if isset $item.Params "author_notes" -}}
+          {{- with (index $item.Params.author_notes $index) -}}
+            <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+          {{- end -}}
+        {{- end -}}
+      {{ end }}
+    </span>
+    ({{- $item.Date.Format "2006" -}}).
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+    {{ if $item.Params.publication_short }}
+      {{- $item.Params.publication_short | markdownify -}}.
+    {{ else if $item.Params.publication }}
+      {{- $item.Params.publication | markdownify -}}.
+    {{ end }}
+    <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
+  {{ else }}
+    <span class="article-metadata li-cite-author">
+      {{ range $index, $author := ($item.GetTerms "authors") }}
+        {{- if gt $index 0 }}, {{ end -}}
+        <span {{ if eq $author.RelPermalink $author_permalink }}class="author-highlighted"{{ end }}>
+          {{- if $author.RelPermalink -}}<a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>{{- else -}}{{ $author.LinkTitle }}{{- end -}}
+        </span>
+      {{ end }}.
+    </span>
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+    {{ if $item.Params.publication_short }}{{ $item.Params.publication_short | markdownify }},{{ else if $item.Params.publication }}{{ $item.Params.publication | markdownify }},{{ end }}
+    {{- $item.Date.Format "2006" -}}.
+    {{ if $has_attachments }}
+      <div class="btn-links">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</div>
+    {{ end }}
+  {{ end }}
+</div>

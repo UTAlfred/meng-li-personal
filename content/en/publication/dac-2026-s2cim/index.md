@@ -54,14 +54,14 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://63dac.conference-program.com/presentation/?id=RESEARCH208&sess=sess123'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -92,4 +92,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
