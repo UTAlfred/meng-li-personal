@@ -1,4 +1,6 @@
 {{ $item := .item }}
+{{ $page := .page }}
+{{ $is_home_talks := and (eq $item.Type "event") (eq $page.File.ContentBaseName "talks") }}
 
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
@@ -33,7 +35,23 @@
 <div class="media stream-item view-compact">
   <div class="media-body">
 
+    {{ $news_icon := "fa-bullhorn" }}
+    {{ $news_icon_class := "news-icon-general" }}
+    {{ if eq $item.Type "news" }}
+      {{ $news_title := lower $item.Title }}
+      {{ if findRE "award|won|winner|1st place|first place|scholarship|prize|champion|honou?r" $news_title }}
+        {{ $news_icon = "fa-trophy" }}
+        {{ $news_icon_class = "news-icon-award" }}
+      {{ else if findRE "paper|accepted|arxiv|publication" $news_title }}
+        {{ $news_icon = "fa-file-alt" }}
+        {{ $news_icon_class = "news-icon-paper" }}
+      {{ end }}
+    {{ end }}
+
     <div class="section-subheading article-title mb-0 mt-0">
+      {{ if eq $item.Type "news" }}
+      <i class="fas {{ $news_icon }} news-item-icon {{ $news_icon_class }}" aria-hidden="true"></i>
+      {{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
@@ -50,16 +68,20 @@
       {{ if eq $item.Type "event" }}
       <div>
         <span>
-          {{ partial "functions/get_event_dates" $item }}
+          {{ if $is_home_talks }}
+            {{ $item.Date | time.Format site.Params.locale.date_format }}
+          {{ else }}
+            {{ partial "functions/get_event_dates" $item }}
+          {{ end }}
         </span>
-        {{ with $item.Params.location }}
+        {{ if not $is_home_talks }}{{ with $item.Params.location }}
         <span class="middot-divider"></span>
         <span>{{ . }}</span>
-        {{ end }}
+        {{ end }}{{ end }}
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
+      {{ if and (not $is_home_talks) $show_authors_only $item.Params.authors }}
       <div>
         {{ partial "page_metadata_authors" $item }}
       </div>

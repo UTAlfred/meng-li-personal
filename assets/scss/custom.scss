@@ -109,6 +109,180 @@
   }
 }
 
+// Compact news list
+
+#news {
+  .media.stream-item {
+    margin-bottom: 0;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 0.35rem;
+    transition: background-color 140ms ease;
+
+    &:hover {
+      background: rgba(41, 98, 255, 0.035);
+    }
+
+    &:last-child {
+      border-bottom-color: transparent;
+    }
+
+    .article-title {
+      display: flex;
+      gap: 0.65rem;
+      align-items: baseline;
+      font-size: 1rem;
+      line-height: 1.35;
+    }
+
+    .news-item-icon {
+      flex: 0 0 1rem;
+      width: 1rem;
+      text-align: center;
+    }
+
+    .news-icon-paper {
+      color: #2962ff;
+    }
+
+    .news-icon-award {
+      color: #d97706;
+    }
+
+    .news-icon-general {
+      color: #64748b;
+    }
+
+    .stream-meta {
+      margin: 0;
+      font-size: 0.72rem;
+      white-space: nowrap;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #news .media.stream-item .media-body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: baseline;
+  }
+}
+
+@media (max-width: 767.98px) {
+  #news .media.stream-item {
+    padding-right: 0.25rem;
+    padding-left: 0.25rem;
+
+    .stream-meta {
+      margin-top: 0.2rem;
+    }
+  }
+}
+
+.dark #news .media.stream-item {
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+
+  &:hover {
+    background: rgba(125, 159, 255, 0.07);
+  }
+
+  &:last-child {
+    border-bottom-color: transparent;
+  }
+
+  .news-icon-paper {
+    color: #8da8ff;
+  }
+
+  .news-icon-award {
+    color: #fbbf24;
+  }
+
+  .news-icon-general {
+    color: #94a3b8;
+  }
+}
+
+// Compact recent talks list
+
+#talks {
+  .media.stream-item {
+    margin-bottom: 0;
+    padding: 0.65rem 0.75rem;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 0.35rem;
+    transition: background-color 140ms ease;
+
+    &:hover {
+      background: rgba(41, 98, 255, 0.035);
+    }
+
+    &:last-child {
+      border-bottom-color: transparent;
+    }
+
+    .article-title {
+      font-size: 1rem;
+      line-height: 1.35;
+    }
+
+    .summary-link {
+      display: none;
+    }
+
+    .stream-meta {
+      margin: 0;
+      font-size: 0.74rem;
+      white-space: nowrap;
+    }
+
+    .btn-links {
+      margin-top: 0.35rem;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #talks .media.stream-item {
+    .media-body {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.35rem 1rem;
+      align-items: baseline;
+    }
+
+    .btn-links {
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  #talks .media.stream-item {
+    padding-right: 0.25rem;
+    padding-left: 0.25rem;
+
+    .stream-meta {
+      margin-top: 0.2rem;
+      white-space: normal;
+    }
+  }
+}
+
+.dark #talks .media.stream-item {
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+
+  &:hover {
+    background: rgba(125, 159, 255, 0.07);
+  }
+
+  &:last-child {
+    border-bottom-color: transparent;
+  }
+}
+
 .research-statement {
   position: relative;
   margin: 1.5rem 0;
