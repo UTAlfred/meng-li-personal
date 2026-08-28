@@ -40,6 +40,7 @@ abstract: We design deep neural networks (DNNs) and corresponding networks' spli
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 - Computer Vision
 

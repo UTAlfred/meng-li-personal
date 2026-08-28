@@ -37,6 +37,7 @@ abstract: In the paper, random telegraph noise (RTN) in high-κ/metal-gate MOSFE
 # summary: 
 
 tags: 
+- Hardware
 - Variation
 
 # Display this page in the Featured widget?

@@ -42,6 +42,7 @@ abstract:
 summary: "面向私有大语言模型推理的通信高效嵌入表查询方案。"
 
 tags: 
+- Algorithm/Software
 - Hardware Acc
 - Private AI
 

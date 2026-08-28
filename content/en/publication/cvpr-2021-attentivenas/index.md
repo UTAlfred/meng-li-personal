@@ -37,6 +37,7 @@ abstract: Neural architecture search (NAS) has shown great promise in designing 
 summary: "An attentive sampling strategy that improves weight-sharing neural architecture search across a broad efficiency range."
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 - Computer Vision
 

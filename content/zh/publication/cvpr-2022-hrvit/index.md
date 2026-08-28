@@ -42,6 +42,7 @@ abstract: Vision Transformers (ViTs) have emerged with superior performance on c
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 
 # Display this page in the Featured widget?

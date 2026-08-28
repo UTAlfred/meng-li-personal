@@ -37,6 +37,7 @@ abstract: The execution-simulation gap (ESG) is a fundamental property of public
 # summary: 
 
 tags: 
+- Hardware
 - Hardware Security
 
 # Display this page in the Featured widget?

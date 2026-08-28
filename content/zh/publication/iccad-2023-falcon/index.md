@@ -39,6 +39,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Private Inference
 
 # Display this page in the Featured widget?

@@ -41,6 +41,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - NLP
 - Efficient AI
 

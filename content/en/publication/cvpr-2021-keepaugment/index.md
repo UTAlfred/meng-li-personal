@@ -38,6 +38,7 @@ abstract: Data augmentation (DA) is an essential technique for training state-of
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 
 # Display this page in the Featured widget?

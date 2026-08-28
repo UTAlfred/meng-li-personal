@@ -41,6 +41,7 @@ abstract: Powerful yet complex deep neural networks (DNNs) have fueled a booming
 # summary: 
 
 tags: 
+- Hardware
 - Efficient AI
 - Accelerator
 

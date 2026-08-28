@@ -48,6 +48,7 @@ abstract:
 # summary: 
 
 tags: 
+- Hardware
 - Efficient AI
 
 # Display this page in the Featured widget?

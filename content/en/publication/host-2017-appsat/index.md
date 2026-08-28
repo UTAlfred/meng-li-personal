@@ -39,6 +39,7 @@ abstract: "In today's diversified semiconductor supply-chain, protecting intelle
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Security
 
 # Display this page in the Featured widget?

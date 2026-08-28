@@ -35,6 +35,7 @@ abstract: As the technology node scales down to 45nm and beyond, the significant
 summary: Publised by Springer, UT Austin Margarida Jacome Outstanding Dis- sertation Prize, EDAA Outstanding Dissertation Award, ACM Student Research Competition Grand Final First Place
 
 tags: 
+- Hardware
 - Hardware Security
 
 # Display this page in the Featured widget?

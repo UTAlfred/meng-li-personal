@@ -41,6 +41,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 - Efficient AI
 

@@ -37,6 +37,7 @@ abstract: Neural architecture search (NAS) has shown great promise in designing 
 summary: "通过注意力采样提升权重共享神经网络架构搜索在不同计算预算下的表现。"
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 - Computer Vision
 

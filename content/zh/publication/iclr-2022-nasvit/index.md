@@ -41,6 +41,7 @@ abstract: Designing accurate and efficient vision transformers (ViTs) is a highl
 summary: "通过梯度冲突感知的超网络训练搜索高效视觉 Transformer。"
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 - Efficient AI
 

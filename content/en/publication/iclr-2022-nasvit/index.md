@@ -41,6 +41,7 @@ abstract: Designing accurate and efficient vision transformers (ViTs) is a highl
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 - Efficient AI
 

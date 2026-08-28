@@ -42,6 +42,7 @@ abstract: From wearables to powerful smart devices, modern automatic speech reco
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 - Speech
 

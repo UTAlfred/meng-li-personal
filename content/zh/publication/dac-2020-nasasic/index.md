@@ -42,6 +42,7 @@ abstract: Neural architecture search (NAS) has shown great promise in designing 
 # summary: 
 
 tags: 
+- Hardware
 - Efficient AI
 - Computer Vision
 - Accelerator

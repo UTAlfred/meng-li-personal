@@ -39,6 +39,7 @@ abstract: Federated learning enables resource-constrained edge compute devices, 
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 - Federated Learning
 

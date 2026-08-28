@@ -42,6 +42,7 @@ abstract:
 # summary: 
 
 tags: 
+- Hardware
 - Efficient AI
 - Hardware Acc
 

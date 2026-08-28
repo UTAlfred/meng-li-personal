@@ -39,6 +39,7 @@ abstract: Neural network accelerator is a key enabler for the on-device AI infer
 # summary: 
 
 tags: 
+- Hardware
 - Hardware Security
 
 # Display this page in the Featured widget?

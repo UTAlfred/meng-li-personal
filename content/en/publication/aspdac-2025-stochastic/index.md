@@ -36,6 +36,7 @@ publication_short: In *Asia and South Pacific Design Automation Conference (ASP-
 # summary: 
 
 tags: 
+- Hardware
 - Efficient AI
 - Computer Vision
 - Accelerator

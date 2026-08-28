@@ -46,6 +46,7 @@ abstract:
 summary: "A hybrid CKKS/MPC framework that remodels private Transformer inference through fine-grained operator fusion."
 
 tags: 
+- Algorithm/Software
 - Private AI
 
 # Display this page in the Featured widget?

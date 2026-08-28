@@ -47,6 +47,7 @@ abstract:
 # summary: 
 
 tags: 
+- Hardware
 - Hardware Acc
 - Private AI
 

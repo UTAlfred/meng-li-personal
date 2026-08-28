@@ -51,6 +51,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Efficient ML
 
 # Display this page in the Featured widget?

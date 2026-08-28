@@ -41,6 +41,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 
 # Display this page in the Featured widget?

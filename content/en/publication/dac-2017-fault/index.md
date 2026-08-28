@@ -37,6 +37,7 @@ abstract: "Fault attack becomes a serious threat to system security and requires
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Security
 
 # Display this page in the Featured widget?

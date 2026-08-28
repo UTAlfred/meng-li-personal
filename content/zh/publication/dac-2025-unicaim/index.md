@@ -42,6 +42,7 @@ abstract:
 summary: "面向长上下文大语言模型推理，融合静态—动态 KV Cache 剪枝的统一 CAM/CIM 架构。"
 
 tags: 
+- Hardware
 - Hardware Acc
 - Efficient AI
 

@@ -55,6 +55,7 @@ abstract:
 summary: "A cross-layer framework that exploits heterogeneous resilience to improve the energy efficiency and reliability of embodied AI systems."
 
 tags: 
+- Hardware
 - Efficient AI
 
 # Display this page in the Featured widget?

@@ -1,0 +1,59 @@
+{{ if .IsHome }}
+<script>
+  (() => {
+    const selector = '#publications .project-filters a';
+
+    document.addEventListener('click', (event) => {
+      if (!(event.target instanceof Element)) return;
+
+      const button = event.target.closest(selector);
+      if (!button) return;
+
+      const section = button.closest('#publications');
+      if (!section) return;
+
+      event.preventDefault();
+
+      const buttons = Array.from(section.querySelectorAll(selector));
+      buttons.forEach((item) => {
+        if (!item.dataset.baseFilter) {
+          item.dataset.baseFilter = item.dataset.filter;
+        }
+      });
+
+      if (!section._publicationFilterSelections) {
+        section._publicationFilterSelections = new Set();
+      }
+
+      const selections = section._publicationFilterSelections;
+      const selectedFilter = button.dataset.baseFilter;
+
+      if (selectedFilter === '*') {
+        selections.clear();
+      } else if (selections.has(selectedFilter)) {
+        selections.delete(selectedFilter);
+      } else {
+        selections.add(selectedFilter);
+      }
+
+      // Isotope interprets concatenated class selectors as an intersection.
+      button.dataset.filter = selections.size ? Array.from(selections).join('') : '*';
+
+      // Wowchemy performs the filtering in its existing click handler. Restore
+      // the individual selectors and multi-select button state afterwards.
+      window.setTimeout(() => {
+        buttons.forEach((item) => {
+          const itemFilter = item.dataset.baseFilter;
+          const isActive = itemFilter === '*'
+            ? selections.size === 0
+            : selections.has(itemFilter);
+
+          item.dataset.filter = itemFilter;
+          item.classList.toggle('active', isActive);
+          item.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
+      }, 0);
+    }, true);
+  })();
+</script>
+{{ end }}

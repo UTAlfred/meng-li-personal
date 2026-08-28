@@ -36,6 +36,7 @@ abstract: "An efficient methodology for soft error analysis of sequential circui
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Security
 
 # Display this page in the Featured widget?

@@ -1,7 +1,7 @@
 ---
-# An instance of the Pages widget.
+# A filterable portfolio of recent publications.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -13,30 +13,25 @@ title: Recent Publications
 subtitle: 'More detailed publication lists available through [Google Scholar](https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en)'
 
 content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 10
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
+  page_type: publication
+  # Display all publications so filters apply to the complete collection.
+  count: 0
   order: desc
+  filter_default: 0
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Efficient AI
+    tag: Efficient AI
+  - name: Private AI
+    tag: Private AI
+  - name: Hardware
+    tag: Hardware
+  - name: Algorithm
+    tag: Algorithm/Software
+
 design:
   # Choose a view for the listings:
   view: citation
   columns: '1'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

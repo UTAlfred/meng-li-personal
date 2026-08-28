@@ -43,6 +43,7 @@ abstract:
 summary: "A speculative exploration system that breaks reward synchronization barriers to accelerate scalable Tree-of-Thought reasoning."
 
 tags: 
+- Algorithm/Software
 - Efficient AI
 
 # Display this page in the Featured widget?

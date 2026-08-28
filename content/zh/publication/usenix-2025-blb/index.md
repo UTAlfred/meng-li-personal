@@ -46,6 +46,7 @@ abstract:
 summary: "通过细粒度算子融合重构私有 Transformer 推理的混合 CKKS/MPC 框架。"
 
 tags: 
+- Algorithm/Software
 - Privacy-Preserving AI
 
 # Display this page in the Featured widget?

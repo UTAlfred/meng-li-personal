@@ -39,6 +39,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Private AI 
 
 # Display this page in the Featured widget?

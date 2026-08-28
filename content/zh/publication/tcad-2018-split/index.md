@@ -39,6 +39,7 @@ abstract: "The advancing of reverse engineering techniques has complicated the e
 # summary: 
 
 tags: 
+- Hardware
 - Hardware Security
 
 # Display this page in the Featured widget?

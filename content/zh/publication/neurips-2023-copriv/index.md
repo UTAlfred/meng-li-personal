@@ -39,6 +39,7 @@ abstract:
 summary: "通过网络—协议协同优化降低安全私有推理的通信开销。"
 
 tags: 
+- Algorithm/Software
 - Privacy-preserving ML
 
 # Display this page in the Featured widget?

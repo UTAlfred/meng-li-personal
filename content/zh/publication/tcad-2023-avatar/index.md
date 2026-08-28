@@ -42,6 +42,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Acc
 
 # Display this page in the Featured widget?

@@ -43,6 +43,7 @@ abstract:
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Acc
 - Efficient AI
 

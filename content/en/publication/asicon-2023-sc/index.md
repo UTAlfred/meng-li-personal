@@ -46,6 +46,7 @@ abstract:
 # summary: 
 
 tags: 
+- Hardware
 - Private Inference
 
 # Display this page in the Featured widget?

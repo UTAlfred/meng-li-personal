@@ -39,6 +39,7 @@ abstract:
 summary: "A network–protocol co-optimization framework for reducing the communication overhead of secure private inference."
 
 tags: 
+- Algorithm/Software
 - Private AI
 
 # Display this page in the Featured widget?

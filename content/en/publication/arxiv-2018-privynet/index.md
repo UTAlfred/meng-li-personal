@@ -38,6 +38,7 @@ abstract: Massive data exist among user local platforms that usually cannot supp
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 
 # Display this page in the Featured widget?

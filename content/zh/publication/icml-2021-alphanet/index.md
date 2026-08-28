@@ -39,6 +39,7 @@ abstract: Weight-sharing neural architecture search (NAS) is an effective techni
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Computer Vision
 - Efficient AI
 

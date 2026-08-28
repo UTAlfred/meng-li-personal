@@ -50,6 +50,7 @@ abstract:
 summary: "A near-memory architecture that accelerates oblivious-transfer extension, a key bottleneck in privacy-preserving AI."
 
 tags: 
+- Hardware
 - Private AI
 
 # Display this page in the Featured widget?

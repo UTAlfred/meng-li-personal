@@ -37,6 +37,7 @@ abstract: "In order to counter advanced reverse engineering techniques, various 
 # summary: 
 
 tags: 
+- Algorithm/Software
 - Hardware Security
 
 # Display this page in the Featured widget?
