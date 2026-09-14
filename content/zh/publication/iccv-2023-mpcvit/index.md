@@ -44,7 +44,7 @@ abstract:
 
 tags: 
 - Algorithm/Software
-- Private Inference
+- Private AI
 
 # Display this page in the Featured widget?
 featured: false

@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Research Interests
+title: 研究兴趣
 subtitle:
 
 content:

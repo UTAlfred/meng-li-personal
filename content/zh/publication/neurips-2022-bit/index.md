@@ -42,7 +42,6 @@ abstract:
 
 tags: 
 - Algorithm/Software
-- NLP
 - Efficient AI
 
 # Display this page in the Featured widget?

@@ -43,11 +43,11 @@ publication_short: In *Usenix Security Symposium 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: "通过细粒度算子融合重构私有 Transformer 推理的混合 CKKS/MPC 框架。"
+summary: "A hybrid CKKS/MPC framework that remodels private Transformer inference through fine-grained operator fusion."
 
 tags: 
 - Algorithm/Software
-- Privacy-Preserving AI
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

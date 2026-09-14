@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in IEEE CICC'2024
-subtitle: One paper on "MixCIM&#58; A Hybrid-Cell-Based Computing-in-Memory Macro with Less-Data-Movement and Activation-Memory-Reuse for Depthwise Separable Neural Networks" is accpeted by IEEE Custom Integrated Circuits Conference (CICC)'2024.
+title: 一篇论文被IEEE CICC'2024接收
+subtitle: 论文“MixCIM&#58; A Hybrid-Cell-Based Computing-in-Memory Macro with Less-Data-Movement and Activation-Memory-Reuse for Depthwise Separable Neural Networks”被IEEE Custom Integrated Circuits Conference (CICC)'2024接收。
 
 # Summary for listings and search engines
-summary: One paper on "MixCIM&#58; A Hybrid-Cell-Based Computing-in-Memory Macro with Less-Data-Movement and Activation-Memory-Reuse for Depthwise Separable Neural Networks" is accepted by IEEE CICC'2024.
+summary: 论文“MixCIM&#58; A Hybrid-Cell-Based Computing-in-Memory Macro with Less-Data-Movement and Activation-Memory-Reuse for Depthwise Separable Neural Networks”被IEEE CICC'2024接收。
 
 # Date published
 date: "2024-01-08T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

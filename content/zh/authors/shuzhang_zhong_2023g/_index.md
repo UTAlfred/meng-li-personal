@@ -20,14 +20,13 @@ role: PhD Student (2023)
 
 # Organizations/Affiliations
 organizations:
-  - name: Beihang University
-    url: 'https://www.buaa.edu.cn/'
+  - name: Peking University
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Efficient AI Algorithm & System
+  - Efficient AI
 
 education:
   courses:

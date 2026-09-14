@@ -28,8 +28,7 @@ organizations:
 bio: 5+ first-author papers; recipient of 北京大学优秀毕业论文
 
 interests:
-  - Efficient Deep Learning
-  - Privacy-preserving Machine Learning
+  - Privacy-Preserving AI
 
 education:
   courses:

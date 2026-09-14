@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in IJCAI-ECAI 2022
-subtitle: One paper on "Decentralized Unsupervised Learning of Visual Representations" is accepted by IJCAI-ECAI'2022.
+title: 一篇论文被IJCAI-ECAI 2022接收
+subtitle: 论文“Decentralized Unsupervised Learning of Visual Representations”被IJCAI-ECAI'2022接收。
 
 # Summary for listings and search engines
-summary: One paper on "Decentralized Unsupervised Learning of Visual Representations" is accepted by the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI'2022).
+summary: 论文“Decentralized Unsupervised Learning of Visual Representations”被the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI'2022)接收。
 
 # Date published
 date: "2022-05-15T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

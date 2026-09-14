@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted by MICRO 2024
-subtitle: One paper on "Trinity&#58; A General Purpose FHE Accelerator" are accpeted by MICRO'2024.
+title: 一篇论文被MICRO 2024接收
+subtitle: 论文“Trinity&#58; A General Purpose FHE Accelerator”被MICRO'2024接收。
 
 # Summary for listings and search engines
-summary: One paper on "Trinity&#58; A General Purpose FHE Accelerator" is accepted by DATE'2024 as a regular paper. This is a joint work w/ Prof. Mingzhe Zhang from IIE CAS and Ant Group.
+summary: 论文“Trinity&#58; A General Purpose FHE Accelerator”被MICRO'2024接收为正式论文。该工作与来自IIE CAS和Ant Group的Prof. Mingzhe Zhang合作完成。
 
 # Date published
 date: "2024-08-10T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

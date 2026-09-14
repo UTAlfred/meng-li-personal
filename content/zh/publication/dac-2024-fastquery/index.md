@@ -39,7 +39,7 @@ publication_short: In *Design Automation Conference (DAC) 2024*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: "面向私有大语言模型推理的通信高效嵌入表查询方案。"
+# summary: 
 
 tags: 
 - Algorithm/Software
@@ -47,7 +47,7 @@ tags:
 - Private AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

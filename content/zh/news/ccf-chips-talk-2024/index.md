@@ -1,9 +1,9 @@
 ---
-title: Dr. Meng Li Delivered Three Talks in CCF Chip 2024
-subtitle: Dr. Meng Li delivered three talks in CCF Chip 2024 on efficient and private AI.
+title: 李萌博士在CCF Chip 2024作三场报告
+subtitle: 李萌博士在CCF Chip 2024围绕高效与隐私保护人工智能作了三场报告。
 
 # Summary for listings and search engines
-summary: Dr. Meng Li delivered three talks in CCF Chip 2024 on efficient and private AI.
+summary: 李萌博士在CCF Chip 2024围绕高效与隐私保护人工智能作了三场报告。
 
 # Date published
 date: "2024-08-10T00:00:00Z"
@@ -18,10 +18,11 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
 
-Dr. Meng Li delivered three talks in CCF Chip 2024 on efficient and private AI, including
-- Efficient and Private Transformer Inference through Network/Protocol Co-Optimization
-- Compiler Optimization for Efficient LLM Inference
-- Efficient yet Accurate End-to-End Stochastic Computing-based AI Acceleration
+李萌博士在CCF Chip 2024围绕高效与隐私保护人工智能作了三场报告，包括：
+
+- 通过网络/协议协同优化实现高效、隐私保护的Transformer推理
+- 面向高效大语言模型推理的编译器优化
+- 高效且准确的端到端随机计算人工智能加速

@@ -39,7 +39,7 @@ publication_short: In *Design Automation Conference (DAC) 2025*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: "面向长上下文大语言模型推理，融合静态—动态 KV Cache 剪枝的统一 CAM/CIM 架构。"
+# summary: 
 
 tags: 
 - Hardware
@@ -47,7 +47,7 @@ tags:
 - Efficient AI
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -59,7 +59,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://disk.pku.edu.cn/link/ARBF65DBF447B543FCAAAD3D4B3BA7E04A'
 url_source: ''
 url_video: ''
 

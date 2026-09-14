@@ -52,7 +52,7 @@ abstract:
 
 tags: 
 - Algorithm/Software
-- Efficient ML
+- Efficient AI
 
 # Display this page in the Featured widget?
 featured: false

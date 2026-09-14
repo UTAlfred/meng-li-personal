@@ -36,11 +36,11 @@ publication_short: In *Conference on Neural Information Processing Systems (Neur
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: "通过网络—协议协同优化降低安全私有推理的通信开销。"
+summary: "A network–protocol co-optimization framework for reducing the communication overhead of secure private inference."
 
 tags: 
 - Algorithm/Software
-- Privacy-preserving ML
+- Private AI
 
 # Display this page in the Featured widget?
 featured: true

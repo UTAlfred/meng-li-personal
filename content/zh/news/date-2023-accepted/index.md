@@ -1,9 +1,9 @@
 ---
-title: Two Papers Accepted in DATE 2023
-subtitle: Two papers on "Accurate yet Efficient Stochastic Computing Neural Acceleration with High Precision Residual Fusion" and "READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction" are accpeted by DATE'2023.
+title: 两篇论文被DATE 2023接收
+subtitle: 论文“Accurate yet Efficient Stochastic Computing Neural Acceleration with High Precision Residual Fusion”和“READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction”被DATE'2023接收。
 
 # Summary for listings and search engines
-summary: One paper on "Accurate yet Efficient Stochastic Computing Neural Acceleration with High Precision Residual Fusion" is accepted by DATE'2023 as a regular paper. One paper on "READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction" is accpeted as an extended abstract.
+summary: 论文“Accurate yet Efficient Stochastic Computing Neural Acceleration with High Precision Residual Fusion”被DATE'2023接收为正式论文；论文“READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction”被接收为扩展摘要。
 
 # Date published
 date: "2022-11-21T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

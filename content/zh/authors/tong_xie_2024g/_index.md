@@ -16,7 +16,7 @@ build:
 
 # Role/position
 # if you are co-advised, write ``Graduate Students (Co-advised with Prof. XXX)''
-role: PhD Student (co-advised with Prof. Runsheng Wang, 2024)
+role: PhD Student (co-advised w/ Prof. Runsheng Wang, 2024)
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Stochastic Computing, Approximate Computing
+  - Efficient AI
 
 education:
   courses:

@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in ICML 2022
-subtitle: One paper on "DepthShrinker{:} A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks" is accepted by ICML'2022.
+title: 一篇论文被ICML 2022接收
+subtitle: 论文“DepthShrinker{:} A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks”被ICML'2022接收。
 
 # Summary for listings and search engines
-summary: One paper on "DepthShrinker{:} A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks" is accepted by ICML'2022.
+summary: 论文“DepthShrinker{:} A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks”被ICML'2022接收。
 
 # Date published
 date: "2022-05-18T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

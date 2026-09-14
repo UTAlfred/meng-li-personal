@@ -1,9 +1,9 @@
 ---
-title: Four Papers Accepted in DATE'2025
-subtitle: Four papers, including 3 on efficient AI and 1 on privacy-preserving AI, are accepted by DATE'2025 as regular papers.
+title: 四篇论文被DATE'2025接收
+subtitle: 四篇论文被DATE'2025接收为正式论文，其中三篇关于高效人工智能，一篇关于隐私保护人工智能。
 
 # Summary for listings and search engines
-summary: Four papers, including 3 on efficient AI and 1 on privacy-preserving AI, are accepted by DATE'2025 as regular papers.
+summary: 四篇论文被DATE'2025接收为正式论文，其中三篇关于高效人工智能，一篇关于隐私保护人工智能。
 
 # One paper on "ASCEND&#58; Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer" is accepted by DATE'2024 as a regular paper. 
 
@@ -20,13 +20,15 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
 
-Papers on privacy-preserving AI:
+隐私保护人工智能方向论文：
+
 - FLASH: An Efficient Hardware Accelerator Leveraging Approximate and Sparse FFT for Homomorphic Encryption
 
-Papers on efficient AI:
+高效人工智能方向论文：
+
 - LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design
 - SCALES: Boost Binary Neural Network for Image Super-Resolution with Efficient Scalings
 - Compact Non-Volatile Lookup Table Architecture based on Ferroelectric FET Array through In-Situ Combinatorial One-Hot Encoding for Reconfigurable Computing

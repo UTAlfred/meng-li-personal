@@ -1,9 +1,9 @@
 ---
-title: Four Papers Accepted by DAC'2025
-subtitle: Four papers on efficient LLM are accepted by DAC'2025 as regular papers.
+title: 四篇论文被DAC'2025接收
+subtitle: 四篇关于高效大语言模型的论文被DAC'2025接收为正式论文。
 
 # Summary for listings and search engines
-summary: Four papers on efficient LLM are accepted by DAC'2024 as regular papers.
+summary: 四篇关于高效大语言模型的论文被DAC'2025接收为正式论文。
 
 # Date published
 date: "2025-02-15T00:00:00Z"
@@ -18,10 +18,11 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
 
-Four papers on efficient LLM:
+四篇关于高效大语言模型的论文：
+
 - HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference
 - SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding
 - UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference

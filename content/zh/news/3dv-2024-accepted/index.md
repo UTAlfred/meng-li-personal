@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in 3DV 2024
-subtitle: One paper on "Enhancing 3D Detection Through Feature Aligned Deep Fusion" is accpeted by International Conference on 3D Vision (3DV)'2024.
+title: 一篇论文被3DV 2024接收
+subtitle: 论文“Enhancing 3D Detection Through Feature Aligned Deep Fusion”被International Conference on 3D Vision (3DV)'2024接收。
 
 # Summary for listings and search engines
-summary: One paper on "Enhancing 3D Detection Through Feature Aligned Deep Fusion" is accepted by 3DV'2024.
+summary: 论文“Enhancing 3D Detection Through Feature Aligned Deep Fusion”被3DV'2024接收。
 
 # Date published
 date: "2023-10-20T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

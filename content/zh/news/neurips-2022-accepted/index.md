@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in NeurIPS 2022
-subtitle: One paper on "BiT{:} Robustly Binarized Multi-distilled Transformer" is accepted by NeurIPS'2022.
+title: 一篇论文被NeurIPS 2022接收
+subtitle: 论文“BiT{:} Robustly Binarized Multi-distilled Transformer”被NeurIPS'2022接收。
 
 # Summary for listings and search engines
-summary: One paper on "BiT{:} Robustly Binarized Multi-distilled Transformer" is accepted by NeurIPS'2022.
+summary: 论文“BiT{:} Robustly Binarized Multi-distilled Transformer”被NeurIPS'2022接收。
 
 # Date published
 date: "2022-09-15T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

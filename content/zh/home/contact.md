@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -28,11 +28,11 @@ content:
   email: meng[dot]li[at]pku[dot]edu[dot]cn
   # phone: 888 888 88 88
   address:
-    street: No.5, Yiheyuan Road
-    city: Haidian District
-    region: Beijing
+    street: 颐和园路5号
+    city: 海淀区
+    region: 北京市
     postcode: '100871'
-    country: China
+    country: 中国
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'

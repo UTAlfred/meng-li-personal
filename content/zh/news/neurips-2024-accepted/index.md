@@ -1,9 +1,9 @@
 ---
-title: Two Papers Accepted in NeurIPS 2024
-subtitle: Two papers on "PrivCirNet&#58; Efficient Private Inference via Block Circulant Transformation" and "ArkVale&#58; Efficient Generative LLM Inference with Recallable Key-Value Eviction" are accpted by NeurIPs'2024.
+title: 两篇论文被NeurIPS 2024接收
+subtitle: 论文“PrivCirNet&#58; Efficient Private Inference via Block Circulant Transformation”和“ArkVale&#58; Efficient Generative LLM Inference with Recallable Key-Value Eviction”被NeurIPS'2024接收。
 
 # Summary for listings and search engines
-summary: Two papers on "PrivCirNet&#58; Efficient Private Inference via Block Circulant Transformation" and "ArkVale&#58; Efficient Generative LLM Inference with Recallable Key-Value Eviction" are accpted by NeurIPs'2024.
+summary: 论文“PrivCirNet&#58; Efficient Private Inference via Block Circulant Transformation”和“ArkVale&#58; Efficient Generative LLM Inference with Recallable Key-Value Eviction”被NeurIPS'2024接收。
 
 # Date published
 date: "2024-09-26T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

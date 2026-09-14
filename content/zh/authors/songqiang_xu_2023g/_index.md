@@ -27,7 +27,7 @@ organizations:
 bio: 2+ first-author papers
 
 interests:
-  - Efficient Deep Learning
+  - Efficient AI
 
 education:
   courses:

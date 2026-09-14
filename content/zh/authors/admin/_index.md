@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 # role: Staff Research Scientist
-role: 助理教授、研究员、博雅青年学者
+role: 助理教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,21 +21,21 @@ organizations:
   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 李萌，北京大学人工智能研究院和集成电路双聘助理教授、研究员、博雅青年学者。他的研究兴趣集中于高效、安全的多模态人工智能加速算法和芯片，旨在通过算法到芯片的跨层次协同设计和优化，为人工智能构建高能效、高可靠、高安全的算力基础。
+bio: 我通过算法—硬件协同设计，研究高效且保护隐私的人工智能系统，并将其应用于大语言模型、具身智能和多模态智能。
 
 # Interests to show in About widget
 interests:
-- 高效、安全多模态人工智能加速算法和芯片
-- 算法/芯片协同设计
+- 高效与安全的多模态人工智能
+- 算法/硬件协同设计与协同优化
 
 # Education to show in About widget
 education:
   courses:
   - course: 博士，计算机工程
-    institution: 德克萨斯州州立大学奥斯汀分校，美国
+    institution: 德克萨斯大学奥斯汀分校，美国
     year: 2018
   - course: 硕士，计算机工程
-    institution: 德克萨斯州州立大学奥斯汀分校，美国
+    institution: 德克萨斯大学奥斯汀分校，美国
     year: 2015
   - course: 学士，微电子学
     institution: 北京大学，中国
@@ -66,8 +66,6 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: meng[dot]li[at]pku[dot]edu[dot]cn
 
@@ -78,11 +76,12 @@ user_groups:
 - Principal Investigators
 ---
 
-李萌于2022年加入北京大学集成电路学院和人工智能研究院，任助理教授，博士生导师，博雅青年学者。加入北京大学前，他曾任职于美国Facebook公司的虚拟现实增强现实实验室，作为技术主管主导虚拟现实和增强现实设备中的人工智能加速算法和系统研究。他于2018年和2013年分别在美国德州大学奥斯汀分校和北京大学获得博士和学士学位。
+我目前是北京大学人工智能研究院和集成电路学院双聘的预聘制助理教授。加入北京大学前，我曾任 Meta 端侧人工智能团队的高级研究科学家和技术负责人，从事面向下一代 AR/VR 设备的高效人工智能算法与硬件研究及产品化工作。我在[David Z. Pan 教授](http://users.ece.utexas.edu/~dpan/)的指导下获得德克萨斯大学奥斯汀分校计算机工程博士学位，并在黄如教授和王润声教授的指导下获得北京大学学士学位。
 
-他的研究兴趣集中于高效、安全的多模态人工智能加速算法和芯片，旨在通过算法到芯片的跨层次协同设计和优化，为人工智能构建高能效、高可靠、高安全的算力基础。他的研究获得了科技部重点研发课题、国自然重大项目课题、国自然重大研究计划培养项目等一些列国家级项目支持。
-
-他在国际顶级会议、期刊发表文章90余篇，引用7000余次，获得最佳论文2次。此外，他还获得了DAC系统设计竞赛第一名、AICAS大模型系统设计竞赛第一名、CCF集成电路Early Career Award、欧洲设计自动化协会最佳博士论文、ACM学生科研竞赛总决赛第一名、美国德州大学奥斯汀分校 Margarida Jacome 杰出论文奖、ASPDAC博士科研论坛最佳海报报告奖、ACM/SIGDA博士科研竞赛金牌以及半导体安全领域顶会IEEE HOST和集成电路设计自动化领域顶会ACM GLSVLSI最佳论文奖。
+<div class="research-statement" role="note" aria-label="研究方向">
+<span class="research-statement-label">研究方向</span>
+<p>我通过算法—硬件协同设计，研究高效且保护隐私的人工智能系统，并将其应用于大语言模型、具身智能和多模态智能。</p>
+</div>
 
 <div class="recruiting-notice">
 
@@ -95,3 +94,5 @@ user_groups:
 🔥 如有意向，请将简历和成绩单发送至邮件，邮件主题为**"Prospective Student from [Your Institute]"**。
 
 </div>
+
+{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/meng-li-cv.pdf" "newtab" >}}个人简历{{< /staticref >}}。

@@ -49,8 +49,7 @@ abstract:
 
 tags: 
 - Algorithm/Software
-- Hardware Acc
-- Efficient AI
+- Private AI
 
 # Display this page in the Featured widget?
 featured: false

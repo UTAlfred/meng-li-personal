@@ -1,9 +1,9 @@
 ---
-title: One Collaboration Paper Accepted in IEEE TIFS'2025
-subtitle: One collaboration paper (led by Prof. Jingqiang Lin) from USTC on "Swift&#58 Fast Secure Neural Network Inference with Fully Homomorphic Encryption" is accpeted by IEEE Transactions on Information Forensics and Security (TIFS)'2025.
+title: 一篇合作论文被IEEE TIFS'2025接收
+subtitle: 一篇来自USTC、由Prof. Jingqiang Lin主导的合作论文“Swift&#58 Fast Secure Neural Network Inference with Fully Homomorphic Encryption”被IEEE Transactions on Information Forensics and Security (TIFS)'2025接收。
 
 # Summary for listings and search engines
-summary: One collaboration paper on "Swift&#58 Fast Secure Neural Network Inference with Fully Homomorphic Encryption" is accepted by IEEE TIFS'2025.
+summary: 合作论文“Swift&#58 Fast Secure Neural Network Inference with Fully Homomorphic Encryption”被IEEE TIFS'2025接收。
 
 # Date published
 date: "2025-03-02T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

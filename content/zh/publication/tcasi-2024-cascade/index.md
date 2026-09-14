@@ -44,7 +44,6 @@ abstract:
 tags: 
 - Hardware
 - Efficient AI
-- Hardware Acc
 
 # Display this page in the Featured widget?
 featured: false

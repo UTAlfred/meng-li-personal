@@ -10,12 +10,12 @@ headless: true
 weight: 100
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: '荣誉与奖励'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006年1月
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,107 +25,131 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-04-23"
+  description: ""
+  organization: ACM SIGDA
+  organization_url: 
+  title: ACM SIGDA 杰出青年教师奖
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-09-11"
+  description: ""
+  organization: 蚂蚁集团
+  organization_url: 
+  title: 蚂蚁集团 InTech 未来奖
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-06-25"
+  description: ""
+  organization: ACM SIGDA
+  organization_url: 
+  title: 端侧多模态生成式科学智能竞赛第一名
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2025-04-30"
   description: ""
-  organization: IEEE Circuit & System Society
+  organization: IEEE Circuits and Systems Society
   organization_url: 
-  title: AICAS Grand Challenge on LLM Hardware System Design 1st Place
+  title: AICAS 大语言模型硬件系统设计挑战赛第一名
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2024-12-15"
   description: ""
-  organization: Peking University
+  organization: 北京大学
   organization_url: 
-  title: Young Teachers’ Teaching Skills Competition 1st Place Prize
+  title: 青年教师教学基本功比赛一等奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2024-08-31"
   description: ""
-  organization: China Computer Federation (CCF)
+  organization: 中国计算机学会（CCF）
   organization_url: 
-  title: CCF-Ant Group Research Award on Hardware/Software Co-Design
+  title: CCF—蚂蚁科研基金软硬件协同设计专项
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2024-07-04"
   description: ""
-  organization: China Computer Federation (CCF)
+  organization: 中国计算机学会（CCF）
   organization_url: 
-  title: CCF Integrated Circuits Early Career Award
+  title: CCF 集成电路 Early Career Award
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2024-05-01"
   description: ""
-  organization: Ant Group
+  organization: 蚂蚁集团
   organization_url: 
-  title: Secretflow Outstanding Industry-Academic Cooperation Contribution Award 
+  title: 隐语产学合作杰出贡献奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2023-08-31"
   description: ""
-  organization: China Computer Federation (CCF)
+  organization: 中国计算机学会（CCF）
   organization_url: 
-  title: CCF-Ant Group Research Award on Privacy Computing
+  title: CCF—蚂蚁科研基金隐私计算专项
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2019-05-01"
   description: ""
-  organization: University of Texas at Austin
+  organization: 德克萨斯大学奥斯汀分校
   organization_url: 
-  title: Margarida Jacome Outstanding Dissertation Prize
+  title: Margarida Jacome 杰出博士论文奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2019-05-01"
   description: ""
-  organization: European Design and Automation Association (EDAA)
+  organization: 欧洲设计自动化协会（EDAA）
   organization_url: 
-  title: Outstanding Dissertations Award
+  title: 杰出博士论文奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2019-03-01"
   description: ""
-  organization: University of Texas at Austin
+  organization: 德克萨斯大学奥斯汀分校
   organization_url: 
-  title: Nominee of ACM Doctoral Dissertation Award
+  title: ACM 博士学位论文奖提名
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2018-06-01"
   description: ""
-  organization: Aossication of Computing Machinery (ACM)
+  organization: Association for Computing Machinery (ACM)
   organization_url: 
-  title: First Place, Student Research Competition Grand Final (Graduate Category)
+  title: 学生科研竞赛全球总决赛研究生组第一名
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2018-03-01"
   description: ""
-  organization: ACM Great Lake Symposium on VLSI (GLSVLSI)
+  organization: ACM Great Lakes Symposium on VLSI (GLSVLSI)
   organization_url: 
-  title: Best Paper Award
+  title: 最佳论文奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2018-02-01"
   description: ""
-  organization: ASPDAC Student Research Forum, Aossication of Computing Machinery (ACM) SIGDA
+  organization: ASP-DAC Student Research Forum, ACM SIGDA
   organization_url: 
-  title: Best Poster (Presentation) Award
+  title: 最佳海报展示奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2017-11-01"
   description: ""
-  organization: ICCAD Student Research Competition, Aossication of Computing Machinery (ACM) SIGDA
+  organization: ACM SIGDA
   organization_url: 
-  title: Gold Medal
+  title: ICCAD博士生科研竞赛金牌
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -133,31 +157,31 @@ item:
   description: ""
   organization: IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
   organization_url: 
-  title: Best Paper Award
+  title: 最佳论文奖
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2013-09-01"
   description: ""
-  organization: University of Texas at Austin
+  organization: 德克萨斯大学奥斯汀分校
   organization_url: 
-  title: Cockrell School Graduate Student Fellowship
+  title: Cockrell 工程学院研究生奖学金
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2011-09-01"
   description: ""
-  organization: Peking University
+  organization: 北京大学
   organization_url: 
-  title: Yang Fuqing and Wang Yangyuan Academician Scholarship
+  title: 杨芙清—王阳元院士奖学金
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2010-09-01"
   description: ""
-  organization: Peking University
+  organization: 北京大学
   organization_url: 
-  title: Li Yanhong Baidu Scholarship
+  title: 李彦宏百度奖学金
   url: ""
 
 design:

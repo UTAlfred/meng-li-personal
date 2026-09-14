@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in DATE 2024
-subtitle: One paper on "ASCEND&#58; Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer" are accpeted by DATE'2024.
+title: 一篇论文被DATE 2024接收
+subtitle: 论文“ASCEND&#58; Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer”被DATE'2024接收。
 
 # Summary for listings and search engines
-summary: One paper on "ASCEND&#58; Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer" is accepted by DATE'2024 as a regular paper. 
+summary: 论文“ASCEND&#58; Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer”被DATE'2024接收为正式论文。
 
 # Date published
 date: "2023-11-09T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

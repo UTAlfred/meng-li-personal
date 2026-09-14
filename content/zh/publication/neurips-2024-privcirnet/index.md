@@ -40,7 +40,7 @@ abstract:
 
 tags: 
 - Algorithm/Software
-- Privacy-preserving ML
+- Private AI
 
 # Display this page in the Featured widget?
 featured: false

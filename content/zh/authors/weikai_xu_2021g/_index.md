@@ -46,14 +46,14 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 #   - icon: twitter
-#     icon_pack:
-#     link:
+#     icon_pack: 
+#     link: 
 #   - icon: google-scholar
-#     icon_pack:
-#     link:
+#     icon_pack: 
+#     link: 
 #   - icon: github
-#     icon_pack:
-#     link:
+#     icon_pack: 
+#     link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

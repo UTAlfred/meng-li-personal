@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted by IEEE TCAD
-subtitle: One paper on "AVATAR- An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing" is accpeted by IEEE TCAD.
+title: 一篇论文被IEEE TCAD接收
+subtitle: 论文“AVATAR- An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing”被IEEE TCAD接收。
 
 # Summary for listings and search engines
-summary: One paper on "AVATAR- An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing" is accepted by IEEE TCAD.
+summary: 论文“AVATAR- An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing”被IEEE TCAD接收。
 
 # Date published
 date: "2023-03-07T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

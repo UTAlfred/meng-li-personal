@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Recent Publications
-subtitle: 'More detailed publication lists available through [Google Scholar](https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en)'
+title: 近期论文
+subtitle: '完整论文列表请访问 [Google Scholar](https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en)'
 
 content:
   page_type: publication
@@ -19,15 +19,15 @@ content:
   order: desc
   filter_default: 0
   filter_button:
-  - name: All
+  - name: 全部
     tag: '*'
-  - name: Efficient AI
+  - name: 高效人工智能
     tag: Efficient AI
-  - name: Private AI
+  - name: 隐私保护人工智能
     tag: Private AI
-  - name: Hardware
+  - name: 硬件
     tag: Hardware
-  - name: Algorithm
+  - name: 算法
     tag: Algorithm/Software
 
 design:

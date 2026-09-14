@@ -1,9 +1,9 @@
 ---
-title: Three Papers Accepted in ICCAD 2023
-subtitle: Three papers on "Falcon{:} Accelerating Homomorphically Encrypted Convolutions for Efficient Private Mobile Network Inference", "Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization", and "READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction" are accpeted by ICCAD'2023.
+title: 三篇论文被ICCAD 2023接收
+subtitle: 论文“Falcon{:} Accelerating Homomorphically Encrypted Convolutions for Efficient Private Mobile Network Inference”、“Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization”和“READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction”被ICCAD'2023接收。
 
 # Summary for listings and search engines
-summary: Three papers on "Falcon{:} Accelerating Homomorphically Encrypted Convolutions for Efficient Private Mobile Network Inference", "Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization", and "READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction" is accepted by ICCAD'2023 as regular papers.
+summary: 论文“Falcon{:} Accelerating Homomorphically Encrypted Convolutions for Efficient Private Mobile Network Inference”、“Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization”和“READ{:} Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction”被ICCAD'2023接收为正式论文。
 
 # Date published
 date: "2023-07-24T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

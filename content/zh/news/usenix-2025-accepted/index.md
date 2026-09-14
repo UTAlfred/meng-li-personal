@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted by Usenix Security'2025
-subtitle: One paper on privacy-preserving Transformer inference is accepted by Usenix Security'2025 as a regular paper.
+title: 一篇论文被USENIX Security'2025接收
+subtitle: 一篇关于隐私保护Transformer推理的论文被USENIX Security'2025接收为正式论文。
 
 # Summary for listings and search engines
-summary: One paper on privacy-preserving Transformer inference is accepted by Usenix Security'2025 as a regular paper. The title of the paper is "Breaking the Layer Barrier&#58; Remodeling Private Transformer Inference with Hybrid CKKS and MPC".
+summary: 一篇关于隐私保护Transformer推理的论文被USENIX Security'2025接收为正式论文。论文题目为“Breaking the Layer Barrier&#58; Remodeling Private Transformer Inference with Hybrid CKKS and MPC”。
 
 # Date published
 date: "2025-05-15T00:00:00Z"
@@ -18,5 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---

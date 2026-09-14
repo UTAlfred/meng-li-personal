@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Projects
-subtitle: ''
+title: 开源项目
+subtitle: '更多开源项目请访问 [GitHub](https://github.com/PKU-SEC-Lab)'
 
 content:
   # Page type to display. E.g. project.

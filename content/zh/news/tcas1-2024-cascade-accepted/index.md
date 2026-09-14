@@ -1,9 +1,9 @@
 ---
-title: One Paper Accepted in IEEE TCASI'2024
-subtitle: One paper on "CASCADE&#58 A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow" is accpeted by IEEE Transactions on Circuits and Systems I (TCASI)'2024.
+title: 一篇论文被IEEE TCASI'2024接收
+subtitle: 论文“CASCADE&#58 A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow”被IEEE Transactions on Circuits and Systems I (TCASI)'2024接收。
 
 # Summary for listings and search engines
-summary: One paper on "CASCADE&#58 A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow" is accepted by IEEE TCASI'2024.
+summary: 论文“CASCADE&#58 A Framework for CNN Accelerator Synthesis with Concatenation and Refreshing Dataflow”被IEEE TCASI'2024接收。
 
 # Date published
 date: "2024-09-03T00:00:00Z"
@@ -18,6 +18,5 @@ draft: false
 featured: true
 
 tags:
-- Conference
+- 会议
 ---
-

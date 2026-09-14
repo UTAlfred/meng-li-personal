@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Research Focus
+title: 研究方向
 subtitle:
 
 # Showcase personal skills or business features.
@@ -22,15 +22,15 @@ feature:
 - description: 
   icon: fa-computer-classic
   icon_pack: fas
-  name: Efficient AI Algorithm
+  name: 高效人工智能算法
 - description: 
   icon: fa-hashtag-lock
   icon_pack: fas
-  name: Multi-Modal AI
+  name: 多模态人工智能
 - description: 
   icon: fa-brain-circuit
   icon_pack: fas
-  name: AI/HW Co-Design
+  name: 人工智能与硬件协同设计
 
 # design:
 #   view: compact
