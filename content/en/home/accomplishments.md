@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-08-26"
+  description: ""
+  organization: Peking University
+  organization_url:
+  title: 2026 Peking University Award for Teaching Excellence
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2026-05-12"
+  description: ""
+  organization: ICML
+  organization_url:
+  title: ICML Gold Reviewer
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2026-04-23"
   description: ""
   organization: ACM SIGDA

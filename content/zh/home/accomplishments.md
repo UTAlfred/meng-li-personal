@@ -25,6 +25,22 @@ date_format: 2006年1月
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-08-26"
+  description: ""
+  organization: 北京大学
+  organization_url:
+  title: 2026年北京大学教学优秀奖
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2026-05-12"
+  description: ""
+  organization: ICML
+  organization_url:
+  title: ICML Gold Reviewer
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2026-04-23"
   description: ""
   organization: ACM SIGDA
