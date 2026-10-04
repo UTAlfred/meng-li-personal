@@ -32,8 +32,8 @@ doi: ""
 publishDate: "2026-09-05T00:00:00Z"
 
 publication_types: ["2"]
-publication: 发表于 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
-publication_short: 发表于 *IEEE TCAD (2026)*
+publication: 发表于 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2026*
+publication_short: 发表于 *IEEE TCAD 2026*
 
 abstract:
 summary: "面向3D近存计算架构上高效MoE推理的混合并行映射与动态调度框架。"

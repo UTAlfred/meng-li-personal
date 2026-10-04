@@ -32,8 +32,8 @@ doi: ""
 publishDate: "2026-09-05T00:00:00Z"
 
 publication_types: ["2"]
-publication: In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*
-publication_short: In *IEEE TCAD (2026)*
+publication: In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2026*
+publication_short: In *IEEE TCAD 2026*
 
 abstract:
 summary: "A hybrid-parallel mapping and dynamic scheduling framework for efficient MoE inference on 3D near-memory processing architectures."

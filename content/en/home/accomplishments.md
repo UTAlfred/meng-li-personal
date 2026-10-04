@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-09-01"
+  description: ""
+  organization: IEEE Circuit & System Society
+  organization_url:
+  title: AICAS Grand Challenge on FPGA Hardware-Software System Design for On-Device VLM Inference 2nd Place
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2026-08-26"
   description: ""
   organization: Peking University

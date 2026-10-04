@@ -25,6 +25,14 @@ date_format: 2006年1月
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2026-09-01"
+  description: ""
+  organization: IEEE Circuits and Systems Society
+  organization_url:
+  title: AICAS 端侧 VLM 推理 FPGA 软硬件系统设计挑战赛第二名
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2026-08-26"
   description: ""
   organization: 北京大学
