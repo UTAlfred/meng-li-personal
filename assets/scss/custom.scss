@@ -1,3 +1,10 @@
+// Use Microsoft YaHei throughout the Chinese-language site while preserving
+// the dedicated font families required by icon packs.
+html[lang="zh-Hans"] body,
+html[lang="zh-Hans"] body :not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.ai) {
+  font-family: "Microsoft YaHei", "微软雅黑", sans-serif !important;
+}
+
 // Research statement
 
 // Horizontal experience timeline
