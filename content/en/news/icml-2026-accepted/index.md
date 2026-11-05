@@ -23,6 +23,6 @@ tags:
 
 The accepted papers are listed below:
 
-- Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse (led by Zizhuo Fu)
-- TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration (led by Linye Wei)
-- HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction (led by Shengxuan Qiu, Haochen Huang)
+- Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse (led by [Zizhuo Fu]({{< relref "/authors/zizhuo_fu_2026g" >}}))
+- TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration (led by [Linye Wei]({{< relref "/authors/linye_wei_2025g" >}}))
+- HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction (led by [Shengxuan Qiu]({{< relref "/authors/shengxuan_qiu_2027g" >}}), [Haochen Huang]({{< relref "/authors/haochen_huang_2026g" >}}))

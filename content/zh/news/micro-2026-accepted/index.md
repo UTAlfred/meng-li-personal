@@ -23,6 +23,6 @@ tags:
 
 被接收的论文如下：
 
-- OptiPrime: Optimizing Private Inference through Protocol-Hardware Codesign（由Jiangrui Yu主导，与来自OpenSecurity Research的Si Chen和Junfeng Fan合作）
-- Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping（由Yi Chen和Ziyu Tang主导，与来自Ant Group的Mingzhe Zhang合作）
-- MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference（由Renjie Wei主导）
+- OptiPrime: Optimizing Private Inference through Protocol-Hardware Codesign（由[Jiangrui Yu]({{< relref "/authors/jiangrui_yu_2024g" >}})主导，与来自OpenSecurity Research的Si Chen和Junfeng Fan合作）
+- Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping（由[Yi Chen]({{< relref "/authors/yi_chen_2025g" >}})和[Ziyu Tang]({{< relref "/authors/ziyu_tang_2027g" >}})主导，与来自Ant Group的Mingzhe Zhang合作）
+- MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference（由[Renjie Wei]({{< relref "/authors/renjie_wei_2022g" >}})主导）

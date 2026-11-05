@@ -21,4 +21,4 @@ tags:
 - 会议
 ---
 
-论文题目为“ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation”，提出了一种通过混合CKKS/TFHE方案计算大语言模型非线性函数的新方法。该工作由博士生Jiangrui Yu主导。
+论文题目为“ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation”，提出了一种通过混合CKKS/TFHE方案计算大语言模型非线性函数的新方法。该工作由博士生[Jiangrui Yu]({{< relref "/authors/jiangrui_yu_2024g" >}})主导。

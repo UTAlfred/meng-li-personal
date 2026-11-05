@@ -21,4 +21,4 @@ tags:
 - Conference
 ---
 
-The title of the paper is "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation", featuring a new way to evaluate the nonlinear functions in LLMs through hybrid CKKS/TFHE schemes. This is led by our PhD student Jiangrui Yu.
+The title of the paper is "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation", featuring a new way to evaluate the nonlinear functions in LLMs through hybrid CKKS/TFHE schemes. This is led by our PhD student [Jiangrui Yu]({{< relref "/authors/jiangrui_yu_2024g" >}}).

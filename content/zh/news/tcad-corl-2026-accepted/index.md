@@ -21,6 +21,6 @@ tags:
 - 会议
 ---
 
-被TCAD接收的论文题目为“HDA-MoE: Hybrid Parallelism and Dynamic, Adaptive Scheduling for Mixture-of-Experts with 3D Near-Memory Processing”，提出了一种面向3D DRAM加速器上MoE推理的新型调度算法。该工作是ICCAD'2025论文HD-MoE的期刊扩展版本，由博士生Haochen Huang主导。
+被TCAD接收的论文题目为“HDA-MoE: Hybrid Parallelism and Dynamic, Adaptive Scheduling for Mixture-of-Experts with 3D Near-Memory Processing”，提出了一种面向3D DRAM加速器上MoE推理的新型调度算法。该工作是ICCAD'2025论文HD-MoE的期刊扩展版本，由博士生[Haochen Huang]({{< relref "/authors/haochen_huang_2026g" >}})主导。
 
-被CoRL接收的论文题目为“Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference”，提出了异步推理优化和边缘GPU部署优化方法。该工作由博士生Zebin Yang主导。
+被CoRL接收的论文题目为“Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference”，提出了异步推理优化和边缘GPU部署优化方法。该工作由博士生[Zebin Yang]({{< relref "/authors/zebin_yang_2024g" >}})主导。

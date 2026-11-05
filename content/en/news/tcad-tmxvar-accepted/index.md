@@ -21,4 +21,4 @@ tags:
 - Journal
 ---
 
-The title of the paper is "TMXVAR: Twin Microscaling Floating-Point Quantization for Efficient Visual Autoregressive Model Inference on FPGA". This work is led by Renjie Wei.
+The title of the paper is "TMXVAR: Twin Microscaling Floating-Point Quantization for Efficient Visual Autoregressive Model Inference on FPGA". This work is led by [Renjie Wei]({{< relref "/authors/renjie_wei_2022g" >}}).

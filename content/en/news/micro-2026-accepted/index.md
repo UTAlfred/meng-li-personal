@@ -23,6 +23,6 @@ tags:
 
 The accepted papers are listed below:
 
-- OptiPrime: Optimizing Private Inference through Protocol-Hardware Codesign (led by Jiangrui Yu, collaborated w/ Si Chen and Junfeng Fan from OpenSecurity Research)
-- Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping (led by Yi Chen and Ziyu Tang, collaborated w/ Mingzhe Zhang from Ant Group)
-- MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference (led by Renjie Wei)
+- OptiPrime: Optimizing Private Inference through Protocol-Hardware Codesign (led by [Jiangrui Yu]({{< relref "/authors/jiangrui_yu_2024g" >}}), collaborated w/ Si Chen and Junfeng Fan from OpenSecurity Research)
+- Helios: Melting Kernel Boundaries for GPU-Accelerated HE via Graph Rewriting and Microarchitecture-Aware Mapping (led by [Yi Chen]({{< relref "/authors/yi_chen_2025g" >}}) and [Ziyu Tang]({{< relref "/authors/ziyu_tang_2027g" >}}), collaborated w/ Mingzhe Zhang from Ant Group)
+- MatMoE: Matryoshka Mixture-of-Experts with Dynamic Mixed-Precision Quantization for Efficient Inference (led by [Renjie Wei]({{< relref "/authors/renjie_wei_2022g" >}}))

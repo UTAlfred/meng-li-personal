@@ -23,6 +23,6 @@ tags:
 
 被接收的论文如下：
 
-- Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse（由Zizhuo Fu主导）
-- TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration（由Linye Wei主导）
-- HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction（由Shengxuan Qiu、Haochen Huang主导）
+- Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse（由[Zizhuo Fu]({{< relref "/authors/zizhuo_fu_2026g" >}})主导）
+- TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration（由[Linye Wei]({{< relref "/authors/linye_wei_2025g" >}})主导）
+- HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction（由[Shengxuan Qiu]({{< relref "/authors/shengxuan_qiu_2027g" >}})、[Haochen Huang]({{< relref "/authors/haochen_huang_2026g" >}})主导）
