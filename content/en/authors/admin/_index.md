@@ -52,6 +52,12 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=lvdRkEkAAAAJ&hl=en
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/70/1726-4.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0002-7212-2264
 - icon: github
   icon_pack: fab
   link: https://github.com/PKU-SEC-Lab
